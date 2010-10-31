@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="0804d248-d4ba-44be-b8b9-559fe5eab2b4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地后传第1部.基地边缘</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e7a09a4b-8c3f-47d8-8fe6-a9c537f11bc2" playOrder="1">
+      <navLabel>
+        <text>第一章　　议员</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="adf6faa2-a9d9-4f5f-a28c-b7befec3019b" playOrder="2">
+      <navLabel>
+        <text>第二章　　市长</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="aa809f40-2b27-44d6-bbd4-f1eded7de785" playOrder="3">
+      <navLabel>
+        <text>第三章　　史学家</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="0482814a-320f-418e-9fdc-b19d3a691e52" playOrder="4">
+      <navLabel>
+        <text>第四章 太空</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="4bcfda87-f744-4388-8b92-bf80f2edfbcc" playOrder="5">
+      <navLabel>
+        <text>第五章 发言人</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="03d797f3-6920-4bb5-8184-fc7409db93a9" playOrder="6">
+      <navLabel>
+        <text>第六章　　地球</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="06b61f83-3dfa-4e2e-a2ad-726af7932655" playOrder="7">
+      <navLabel>
+        <text>第七章　农夫</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="340a427c-f112-4f7b-9815-4a3529d5f067" playOrder="8">
+      <navLabel>
+        <text>第八章　农妇</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="335db139-0921-4cc8-bd57-57300f344fb7" playOrder="9">
+      <navLabel>
+        <text>第九章　　超太空</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="4902d64e-d1fe-4bd6-81b0-09ee300acc67" playOrder="10">
+      <navLabel>
+        <text>第十章　　会议</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="557064d6-45b6-48a0-a281-0a4ad975b56d" playOrder="11">
+      <navLabel>
+        <text>第十一章　　赛歇尔</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="5dd446bb-b5cb-403a-a2f1-c46f45ea2e24" playOrder="12">
+      <navLabel>
+        <text>第十二章　特务</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

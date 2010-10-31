@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="f4e23c4b-3e86-48f7-b4af-40419a920b87" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地三部曲第2部：基地与帝国</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="0eebdcee-dc87-49d5-a501-9ab87582db3a" playOrder="1">
+      <navLabel>
+        <text>基地与帝国</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="684f8e54-974b-4984-bc27-9bc15d8d6154" playOrder="2">
+      <navLabel>
+        <text>序幕</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="b11af1ed-5aa0-4810-b33c-9b957928f1d7" playOrder="3">
+      <navLabel>
+        <text>第一部　将军</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="4d272c3c-be10-4bc2-8173-4016d631ff38" playOrder="4">
+      <navLabel>
+        <text>第一章　寻找魔术师</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="176d584d-db34-484b-b5aa-0afd3b1f6997" playOrder="5">
+      <navLabel>
+        <text>第二章　魔术师</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="25107230-5a04-4fc0-b988-3f54051a5dd6" playOrder="6">
+      <navLabel>
+        <text>第三章　幽灵之手</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="380844e7-f33f-46c6-bfc1-567f70b74aa6" playOrder="7">
+      <navLabel>
+        <text>第四章　皇帝</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="71dc388f-5c65-44c0-919f-befa8ace083b" playOrder="8">
+      <navLabel>
+        <text>第五章　战端</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="e22f8343-d01f-49ee-8f69-d588c6826378" playOrder="9">
+      <navLabel>
+        <text>第六章　宠臣</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="d78eb29f-614d-4f89-954c-e88a11fbf08e" playOrder="10">
+      <navLabel>
+        <text>第七章　贿赂</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="16ed977f-b095-4af0-b414-0b895b172e70" playOrder="11">
+      <navLabel>
+        <text>第八章　航向川陀</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="e73a143b-0292-48b4-aedf-122954692b77" playOrder="12">
+      <navLabel>
+        <text>第九章　川陀</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="5795d2b9-e8f0-48cf-850a-2d156b636df4" playOrder="13">
+      <navLabel>
+        <text>第十章　终战</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="76a10640-539e-428a-836f-b9fa338df88f" playOrder="14">
+      <navLabel>
+        <text>第二部　骡</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="a8aa3658-db3d-4ff4-a2cc-1bdce23876f6" playOrder="15">
+      <navLabel>
+        <text>第十一章　新娘与新郎</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="c0f96a32-ee5c-4b4e-882f-3534d861be91" playOrder="16">
+      <navLabel>
+        <text>第十二章　上尉与市长</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="70cb0cce-423d-4d8a-a87e-69086d763425" playOrder="17">
+      <navLabel>
+        <text>第十三章　上尉与小丑</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="db12e00f-2229-45e0-973f-223bd9ac06b9" playOrder="18">
+      <navLabel>
+        <text>第十四章　突变异种</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="87ab3293-c128-4ce9-aa0c-5ed4d21b5836" playOrder="19">
+      <navLabel>
+        <text>第十五章　心理学家</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="bd6dacba-da43-474e-9fde-70ade658e63a" playOrder="20">
+      <navLabel>
+        <text>第十六章　大会</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="687ae013-ad1f-4c9d-b687-95d1618d1ddd" playOrder="21">
+      <navLabel>
+        <text>第十七章　声光琴</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="0f8f4aa1-ffa2-4777-9312-86712fb224ec" playOrder="22">
+      <navLabel>
+        <text>第十八章　基地陷落</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="3c9ef80e-1091-4122-9df3-808bc6fa5fb6" playOrder="23">
+      <navLabel>
+        <text>第十九章　寻找开始</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="3713b77d-718f-4366-9bb5-5518650f4b72" playOrder="24">
+      <navLabel>
+        <text>第二十章　谋反者</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="2b5254ed-2b10-4db7-80ee-98135e7ecd3a" playOrder="25">
+      <navLabel>
+        <text>第二十一章　星空插曲</text>
+      </navLabel>
+      <content src="content_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="82d9f40e-0136-4864-a6f5-a4cc37c69bf0" playOrder="26">
+      <navLabel>
+        <text>第二十二章　魂断新川陀</text>
+      </navLabel>
+      <content src="content_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="392ce1a5-8acc-4582-bb64-c1d2548ee77c" playOrder="27">
+      <navLabel>
+        <text>第二十三章　川陀废墟</text>
+      </navLabel>
+      <content src="content_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="1ccfed73-07e1-4e5a-98a8-38c1bda2a8f7" playOrder="28">
+      <navLabel>
+        <text>第二十四章　回转者</text>
+      </navLabel>
+      <content src="content_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="3c09fc83-388e-491e-8631-545cb6054271" playOrder="29">
+      <navLabel>
+        <text>第二十五章　心理学家之死</text>
+      </navLabel>
+      <content src="content_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="7f5a018b-bc45-4beb-96a2-3d432284d3cb" playOrder="30">
+      <navLabel>
+        <text>第二十六章　寻找结束</text>
+      </navLabel>
+      <content src="content_split_030.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

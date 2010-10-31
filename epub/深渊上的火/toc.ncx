@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="29219c73-641d-4b10-afe0-eec5ebaed862" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>深渊上的火</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="50e11e26-5f5c-4afd-bfcc-7ac92e7759e9" playOrder="1">
+      <navLabel>
+        <text>序章</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="db16fa3a-c89d-4e6e-b6c4-d84398336091" playOrder="2">
+      <navLabel>
+        <text>第一章</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="82832ea0-7c87-443b-bf48-eee71eda414a" playOrder="3">
+      <navLabel>
+        <text>第二章</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="dfe19ca0-3ca4-4831-b185-9718600329d1" playOrder="4">
+      <navLabel>
+        <text>第三章</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="01e4c815-ef62-4cdb-9121-ad0e69238ec6" playOrder="5">
+      <navLabel>
+        <text>第四章</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="2144ff99-5fad-47cf-b708-4be483f225e0" playOrder="6">
+      <navLabel>
+        <text>第五章</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="7e0e9740-f380-409b-9de1-8e6b838b1d9e" playOrder="7">
+      <navLabel>
+        <text>第六章</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="76a961b8-bb97-49d8-9756-3524aa1fd469" playOrder="8">
+      <navLabel>
+        <text>第七章</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="ee8ca03c-4166-4365-8254-510bc32f7ed3" playOrder="9">
+      <navLabel>
+        <text>第八章</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="22bfe401-0d28-4cd9-a176-2a28d8eaa1c5" playOrder="10">
+      <navLabel>
+        <text>第九章</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="a6c37b92-a1e2-4f28-9aaf-6e4c27b87d2c" playOrder="11">
+      <navLabel>
+        <text>第十章</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="243f26da-66dc-4f95-a660-8595cb26c9b0" playOrder="12">
+      <navLabel>
+        <text>第十一章</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="25464de6-1b5a-46f8-9779-aefb408b9dc1" playOrder="13">
+      <navLabel>
+        <text>第十二章</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="6a26f025-53dc-4547-8dfa-c9a3f2b5dd42" playOrder="14">
+      <navLabel>
+        <text>第十三章</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="e67cdfb6-0075-4420-95df-2a0633344387" playOrder="15">
+      <navLabel>
+        <text>第十四章</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="f4fc195a-5e91-4880-81fb-ccb99e019c4c" playOrder="16">
+      <navLabel>
+        <text>第十五章</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="631cf85a-3c89-4e6a-88b2-3c512badaf57" playOrder="17">
+      <navLabel>
+        <text>第十六章</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="0b97e89c-dfcf-46b8-9fcc-188e9a8c9fdc" playOrder="18">
+      <navLabel>
+        <text>第十七章</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="f1dbd478-fa73-4150-81ec-33dbdaa66cd2" playOrder="19">
+      <navLabel>
+        <text>第十八章</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="769720c5-f74c-44bd-8d29-574a52ec401d" playOrder="20">
+      <navLabel>
+        <text>第十九章</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="ecbba2f8-3689-433e-8dcc-08fa37912a9e" playOrder="21">
+      <navLabel>
+        <text>第二十章</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="d03d7742-867a-48c6-9b29-f8615f5eb3bb" playOrder="22">
+      <navLabel>
+        <text>第二十一章</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="e9cd73bd-d6a7-4b1c-8a44-717f72506b2e" playOrder="23">
+      <navLabel>
+        <text>第二十二章</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="c05e6de2-83dd-43c2-b536-9ae9289ab5df" playOrder="24">
+      <navLabel>
+        <text>第二十三章</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="aad0b765-86a6-4ce3-be35-35a83c898be1" playOrder="25">
+      <navLabel>
+        <text>第二十四章</text>
+      </navLabel>
+      <content src="content_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="5595d6fb-0b46-4d91-89b9-9498647fa4af" playOrder="26">
+      <navLabel>
+        <text>第二十五章</text>
+      </navLabel>
+      <content src="content_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="2dfa29b6-5176-4d20-bed2-3859c51e165d" playOrder="27">
+      <navLabel>
+        <text>第二十六章</text>
+      </navLabel>
+      <content src="content_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="2e1f9d89-f9ca-4fb9-a413-9816706a5c53" playOrder="28">
+      <navLabel>
+        <text>第二十七章</text>
+      </navLabel>
+      <content src="content_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="b44542c9-d5d2-4574-9204-5d2a93335fc5" playOrder="29">
+      <navLabel>
+        <text>第二十八章</text>
+      </navLabel>
+      <content src="content_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="5cb31a8e-85eb-4941-b159-59a19fac0212" playOrder="30">
+      <navLabel>
+        <text>第二十九章</text>
+      </navLabel>
+      <content src="content_split_030.xhtml"/>
+    </navPoint>
+    <navPoint id="6ba34392-ff2e-45c9-90d2-0b8a980b7b05" playOrder="31">
+      <navLabel>
+        <text>第三十章</text>
+      </navLabel>
+      <content src="content_split_031.xhtml"/>
+    </navPoint>
+    <navPoint id="ad8f359e-5415-4dce-8b02-ceff3899bc42" playOrder="32">
+      <navLabel>
+        <text>第三十一章</text>
+      </navLabel>
+      <content src="content_split_032.xhtml"/>
+    </navPoint>
+    <navPoint id="9de9217d-191f-452b-80ba-fb4c07695fa5" playOrder="33">
+      <navLabel>
+        <text>第三十二章</text>
+      </navLabel>
+      <content src="content_split_033.xhtml"/>
+    </navPoint>
+    <navPoint id="e7d9712e-c21b-4dd2-a638-d9abb98d1532" playOrder="34">
+      <navLabel>
+        <text>第三十三章</text>
+      </navLabel>
+      <content src="content_split_034.xhtml"/>
+    </navPoint>
+    <navPoint id="efbdf5d7-a201-47df-8565-5c452c78ef10" playOrder="35">
+      <navLabel>
+        <text>第三十四章</text>
+      </navLabel>
+      <content src="content_split_035.xhtml"/>
+    </navPoint>
+    <navPoint id="75823491-2d69-40a4-9c97-0ee94a9416db" playOrder="36">
+      <navLabel>
+        <text>第三十五章</text>
+      </navLabel>
+      <content src="content_split_036.xhtml"/>
+    </navPoint>
+    <navPoint id="29a6f21e-098c-4650-a5fd-dce215d1f95a" playOrder="37">
+      <navLabel>
+        <text>第三十六章</text>
+      </navLabel>
+      <content src="content_split_037.xhtml"/>
+    </navPoint>
+    <navPoint id="6831ebd3-c158-40ee-9897-5baa7a0c0c66" playOrder="38">
+      <navLabel>
+        <text>第三十七章</text>
+      </navLabel>
+      <content src="content_split_038.xhtml"/>
+    </navPoint>
+    <navPoint id="cfb01699-8c8f-42e7-b612-72cffdf12ca8" playOrder="39">
+      <navLabel>
+        <text>第三十八章</text>
+      </navLabel>
+      <content src="content_split_039.xhtml"/>
+    </navPoint>
+    <navPoint id="d4faf27b-6fba-4fa3-8ff1-cd797529432e" playOrder="40">
+      <navLabel>
+        <text>第三十九章</text>
+      </navLabel>
+      <content src="content_split_040.xhtml"/>
+    </navPoint>
+    <navPoint id="a1bbd32e-8309-41d0-a210-3460bcf7cf7e" playOrder="41">
+      <navLabel>
+        <text>第四十章</text>
+      </navLabel>
+      <content src="content_split_041.xhtml"/>
+    </navPoint>
+    <navPoint id="771da590-be85-4c3a-9dc7-07fdc347ffa8" playOrder="42">
+      <navLabel>
+        <text>第四十一章</text>
+      </navLabel>
+      <content src="content_split_042.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

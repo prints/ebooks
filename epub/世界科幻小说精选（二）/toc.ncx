@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="8f8dfbb9-e8da-4faf-b164-079bf5f468ac" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>世界科幻小说精选（二）</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="045f9863-4242-447e-9d35-74f0310a1afc" playOrder="1">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="53eb47c9-e283-489c-b2e6-704705d4c145" playOrder="2">
+      <navLabel>
+        <text>一只下金蛋的鹅</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="b31179b7-fd0b-4cb0-814e-f11739cc5d49" playOrder="3">
+      <navLabel>
+        <text>一台电脑打字机</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+      <navPoint id="fdfcca56-bb33-4ecb-acb6-d6b8faa4971b" playOrder="4">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_003.xhtml#calibre_toc_64"/>
+      </navPoint>
+      <navPoint id="f44e9bc5-80f0-467f-939d-1870243ba8d2" playOrder="5">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_003.xhtml#calibre_toc_65"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f6284ecf-3ed1-46db-9ea0-7148e6002223" playOrder="6">
+      <navLabel>
+        <text>万无一失的“系统”</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="9307405c-f922-4f0f-bb1f-64c33daf0448" playOrder="7">
+      <navLabel>
+        <text>万能制造机</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="cee356e9-198b-4503-ad2e-23312cc87c7c" playOrder="8">
+      <navLabel>
+        <text>三个我</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="1f8b4eaf-55f1-4d9e-b19c-da8f43d9b711" playOrder="9">
+      <navLabel>
+        <text>人多逼的……</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="3b550f99-fb53-4878-8a43-7d570c077b5d" playOrder="10">
+      <navLabel>
+        <text>偷太阳的人</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="1f3c9be7-9ee7-46a4-b491-b19ea6d8a8b4" playOrder="11">
+      <navLabel>
+        <text>十五英里</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="33ecce5b-dbf2-498e-a419-abda4f31eea6" playOrder="12">
+      <navLabel>
+        <text>卧底</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="53db1304-e983-4af6-bf11-65305364cf67" playOrder="13">
+      <navLabel>
+        <text>注释：</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="dde46b38-71fd-440b-8ba3-11887c7522b9" playOrder="14">
+      <navLabel>
+        <text>友谊使者</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="e6518562-2386-42da-b4e5-de81a6b3504d" playOrder="15">
+      <navLabel>
+        <text>受诅咒的计算机</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="25e15a7f-2334-493f-bfe0-162d92d962b9" playOrder="16">
+      <navLabel>
+        <text>吮吸</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="708183ba-480f-4be8-b48b-037eef0e1fd1" playOrder="17">
+      <navLabel>
+        <text>因祸得福——电脑病毒案</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="0dfa5479-a0d4-4dc2-b721-318998e5aab4" playOrder="18">
+      <navLabel>
+        <text>注：</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="afff5cb6-2773-45ab-a0bf-006e56087a12" playOrder="19">
+      <navLabel>
+        <text>外星访客</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+      <navPoint id="f284f45d-6414-4af2-9494-cd1a2171b2b9" playOrder="20">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_66"/>
+      </navPoint>
+      <navPoint id="c80e5003-4ee7-4ac8-9136-1a111a6d7aa5" playOrder="21">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_67"/>
+      </navPoint>
+      <navPoint id="73fab245-0711-4077-b311-67d1cf75d104" playOrder="22">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_68"/>
+      </navPoint>
+      <navPoint id="52ca885b-83c0-4634-aa28-1776d1abfbf7" playOrder="23">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_69"/>
+      </navPoint>
+      <navPoint id="a369325c-5f0a-47ce-8c80-39af44c25329" playOrder="24">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_70"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="3ed93529-f9cd-42e4-bc6e-c034d2efdcf2" playOrder="25">
+      <navLabel>
+        <text>外星追踪</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="d68fc5d5-d5f3-4768-8f1a-8deede4cb662" playOrder="26">
+      <navLabel>
+        <text>天幕坠落</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="dca1368e-3f74-4f5e-9e6e-270f14741a8f" playOrder="27">
+      <navLabel>
+        <text>太空安魂曲</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="0fb39e0e-b6fc-4065-b1a7-632baa76cac1" playOrder="28">
+      <navLabel>
+        <text>如鱼得水</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="f139f563-c845-4759-9194-adcf1fb0d87d" playOrder="29">
+      <navLabel>
+        <text>寻找爱情</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="f6372d4a-a762-48a9-b644-f820f080bbd0" playOrder="30">
+      <navLabel>
+        <text>忠实的救生艇</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="9c27480c-cae9-4cb8-ba10-568ecb6c45d7" playOrder="31">
+      <navLabel>
+        <text>我的伙计</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="a2925170-f6fc-45a6-863f-f2cefa956bfc" playOrder="32">
+      <navLabel>
+        <text>手术奇谈</text>
+      </navLabel>
+      <content src="content_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="b4208e08-0f75-49a9-bd68-ba2b830193e4" playOrder="33">
+      <navLabel>
+        <text>新型变黑症</text>
+      </navLabel>
+      <content src="content_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="e149aa0d-0cfe-4091-b0cf-36336a9f1b2f" playOrder="34">
+      <navLabel>
+        <text>无脑总统</text>
+      </navLabel>
+      <content src="content_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="430371da-5182-4e5e-a518-6bd468601ff0" playOrder="35">
+      <navLabel>
+        <text>时间之轮</text>
+      </navLabel>
+      <content src="content_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="a4a6e503-a3e2-43da-bdf7-803396ab32e0" playOrder="36">
+      <navLabel>
+        <text>时间侦探</text>
+      </navLabel>
+      <content src="content_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="9b7a3d46-c8f4-4465-a456-ffd48e2ece96" playOrder="37">
+      <navLabel>
+        <text>时间在花园里消失</text>
+      </navLabel>
+      <content src="content_split_030.xhtml"/>
+    </navPoint>
+    <navPoint id="82554da6-a912-4210-ab45-f9054449321d" playOrder="38">
+      <navLabel>
+        <text>时间就是金钱</text>
+      </navLabel>
+      <content src="content_split_031.xhtml"/>
+    </navPoint>
+    <navPoint id="47c100a6-ba9b-42a3-b584-d10019c47f34" playOrder="39">
+      <navLabel>
+        <text>时间机器</text>
+      </navLabel>
+      <content src="content_split_032.xhtml"/>
+    </navPoint>
+    <navPoint id="c795e727-6e37-432a-985d-af460f8fe171" playOrder="40">
+      <navLabel>
+        <text>时间狩猎</text>
+      </navLabel>
+      <content src="content_split_033.xhtml"/>
+    </navPoint>
+    <navPoint id="25cbd3d3-e13f-4aab-8da9-161054e4f716" playOrder="41">
+      <navLabel>
+        <text>注释：</text>
+      </navLabel>
+      <content src="content_split_034.xhtml"/>
+    </navPoint>
+    <navPoint id="0e941ff2-3947-487c-82c4-07037c702576" playOrder="42">
+      <navLabel>
+        <text>时间窃贼</text>
+      </navLabel>
+      <content src="content_split_035.xhtml"/>
+    </navPoint>
+    <navPoint id="3b811071-bf73-4483-8730-d62c401cea02" playOrder="43">
+      <navLabel>
+        <text>星光</text>
+      </navLabel>
+      <content src="content_split_036.xhtml"/>
+    </navPoint>
+    <navPoint id="a8f9e352-cb0f-4ef7-99cf-52874239787e" playOrder="44">
+      <navLabel>
+        <text>智者千虑</text>
+      </navLabel>
+      <content src="content_split_037.xhtml"/>
+    </navPoint>
+    <navPoint id="fb09cd89-356e-45c4-bef7-3fb68ea80927" playOrder="45">
+      <navLabel>
+        <text>最后一个问题</text>
+      </navLabel>
+      <content src="content_split_038.xhtml"/>
+    </navPoint>
+    <navPoint id="861279fa-569f-4b38-95f4-10e1954e2838" playOrder="46">
+      <navLabel>
+        <text>月球人的归来</text>
+      </navLabel>
+      <content src="content_split_039.xhtml"/>
+    </navPoint>
+    <navPoint id="d456bc13-9935-4294-845b-32ba320bb9ed" playOrder="47">
+      <navLabel>
+        <text>月球，血溅音乐钟</text>
+      </navLabel>
+      <content src="content_split_040.xhtml"/>
+      <navPoint id="140a08b5-a3e8-4a4c-b067-c8406bae465c" playOrder="48">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_040.xhtml#calibre_toc_71"/>
+      </navPoint>
+      <navPoint id="17422367-ff66-447e-bbcf-b97671a37f49" playOrder="49">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_040.xhtml#calibre_toc_72"/>
+      </navPoint>
+      <navPoint id="c47cc66a-7a5a-426a-8b20-04c0a378cfc1" playOrder="50">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_040.xhtml#calibre_toc_73"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="c894a1fc-689b-469b-96cf-a1fe96ff12a8" playOrder="51">
+      <navLabel>
+        <text>杀人证</text>
+      </navLabel>
+      <content src="content_split_041.xhtml"/>
+    </navPoint>
+    <navPoint id="e5c0b880-cdeb-4b80-937a-39db7f7519e2" playOrder="52">
+      <navLabel>
+        <text>杀“妻”</text>
+      </navLabel>
+      <content src="content_split_042.xhtml"/>
+    </navPoint>
+    <navPoint id="fabf4ee7-919c-41a2-8a7f-a5bb3921c180" playOrder="53">
+      <navLabel>
+        <text>永远属于你的安娜</text>
+      </navLabel>
+      <content src="content_split_043.xhtml"/>
+    </navPoint>
+    <navPoint id="9b522df1-b9e2-4096-a056-371b979b7357" playOrder="54">
+      <navLabel>
+        <text>生存危机</text>
+      </navLabel>
+      <content src="content_split_044.xhtml"/>
+    </navPoint>
+    <navPoint id="63b99961-7263-4cdf-8d5f-fbe3f09e1b07" playOrder="55">
+      <navLabel>
+        <text>神秘的劫持</text>
+      </navLabel>
+      <content src="content_split_045.xhtml"/>
+    </navPoint>
+    <navPoint id="91091428-aa3d-494c-8c9e-8b701e38a0e5" playOrder="56">
+      <navLabel>
+        <text>笑气</text>
+      </navLabel>
+      <content src="content_split_046.xhtml"/>
+    </navPoint>
+    <navPoint id="fda8b05b-3366-4304-8d6c-548b6c6b7679" playOrder="57">
+      <navLabel>
+        <text>细雨即将来临</text>
+      </navLabel>
+      <content src="content_split_047.xhtml"/>
+    </navPoint>
+    <navPoint id="a203897d-2c3b-485b-83b2-ab8ce7b8292d" playOrder="58">
+      <navLabel>
+        <text>注：</text>
+      </navLabel>
+      <content src="content_split_048.xhtml"/>
+    </navPoint>
+    <navPoint id="dfeff026-a7d4-4b72-ba09-47753786c178" playOrder="59">
+      <navLabel>
+        <text>自控侦探</text>
+      </navLabel>
+      <content src="content_split_049.xhtml"/>
+    </navPoint>
+    <navPoint id="0bb2c289-705a-48e7-ae6d-f05a51fc4555" playOrder="60">
+      <navLabel>
+        <text>萎缩的人</text>
+      </navLabel>
+      <content src="content_split_050.xhtml"/>
+    </navPoint>
+    <navPoint id="3c2b6969-886a-439a-82f1-94ed2c8e36ed" playOrder="61">
+      <navLabel>
+        <text>蛛丝海滩</text>
+      </navLabel>
+      <content src="content_split_051.xhtml"/>
+    </navPoint>
+    <navPoint id="61e8ae00-a95e-4e8a-8d95-47801cd1bb8d" playOrder="62">
+      <navLabel>
+        <text>蟹岛噩梦</text>
+      </navLabel>
+      <content src="content_split_052.xhtml"/>
+    </navPoint>
+    <navPoint id="66a857ef-6ea7-41a2-a810-baca83c23e65" playOrder="63">
+      <navLabel>
+        <text>血肉之躯</text>
+      </navLabel>
+      <content src="content_split_053.xhtml"/>
+    </navPoint>
+    <navPoint id="39353d86-c21f-461e-b865-bd6e804bbf6d" playOrder="64">
+      <navLabel>
+        <text>赢家</text>
+      </navLabel>
+      <content src="content_split_054.xhtml"/>
+    </navPoint>
+    <navPoint id="c1defd75-dea2-4930-8e69-e416c6c10ab4" playOrder="65">
+      <navLabel>
+        <text>足球迷奇遇</text>
+      </navLabel>
+      <content src="content_split_055.xhtml"/>
+    </navPoint>
+    <navPoint id="07943fa3-06ca-4b13-bd6c-fa81a35f3107" playOrder="66">
+      <navLabel>
+        <text>输运苦力</text>
+      </navLabel>
+      <content src="content_split_056.xhtml"/>
+      <navPoint id="10bdb08a-8d6d-4a20-94ee-d153627ec0e5" playOrder="67">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_056.xhtml#calibre_toc_74"/>
+      </navPoint>
+      <navPoint id="d076f4a1-be87-4708-a5f9-8a9a8d6963f1" playOrder="68">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_056.xhtml#calibre_toc_75"/>
+      </navPoint>
+      <navPoint id="5a42c60b-bc55-42aa-a00e-b21c8ce167d8" playOrder="69">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_056.xhtml#calibre_toc_76"/>
+      </navPoint>
+      <navPoint id="82112711-e767-4d16-8ea9-7eef52c21142" playOrder="70">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_056.xhtml#calibre_toc_77"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6ff2f5ae-0d11-43f8-999d-0dec30fa9df6" playOrder="71">
+      <navLabel>
+        <text>追赶太阳</text>
+      </navLabel>
+      <content src="content_split_057.xhtml"/>
+    </navPoint>
+    <navPoint id="eda51740-8b83-41f7-a0b2-cbeea4c2fd63" playOrder="72">
+      <navLabel>
+        <text>注：</text>
+      </navLabel>
+      <content src="content_split_058.xhtml"/>
+    </navPoint>
+    <navPoint id="c88b20ef-51f0-44c6-9755-486b97e3c961" playOrder="73">
+      <navLabel>
+        <text>追踪人狼</text>
+      </navLabel>
+      <content src="content_split_059.xhtml"/>
+    </navPoint>
+    <navPoint id="e5a00313-1c4f-42bb-a068-7543b5195cf6" playOrder="74">
+      <navLabel>
+        <text>注：</text>
+      </navLabel>
+      <content src="content_split_060.xhtml"/>
+    </navPoint>
+    <navPoint id="3574cf2a-8213-4a47-bfc8-c85be0d7040a" playOrder="75">
+      <navLabel>
+        <text>追踪汽车杀手</text>
+      </navLabel>
+      <content src="content_split_061.xhtml"/>
+    </navPoint>
+    <navPoint id="2f1d9c73-1e44-41d9-8ea1-86910fbdf538" playOrder="76">
+      <navLabel>
+        <text>阴差阳错</text>
+      </navLabel>
+      <content src="content_split_062.xhtml"/>
+    </navPoint>
+    <navPoint id="b23b5a2f-ffa7-48ae-a087-ce94749901f1" playOrder="77">
+      <navLabel>
+        <text>隐形外星人</text>
+      </navLabel>
+      <content src="content_split_063.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

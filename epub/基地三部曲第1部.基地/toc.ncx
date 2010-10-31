@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="1426ca74-6a8c-4bb9-bb36-b86650a51c71" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地三部曲第1部.基地</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="05199d63-fdaa-4306-8ea9-7698c466f3a7" playOrder="1">
+      <navLabel>
+        <text>第一章 心灵历史学家</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+      <navPoint id="892aa5b1-28b2-4af8-b2cf-c57d96f68abb" playOrder="2">
+        <navLabel>
+          <text>１</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_6"/>
+      </navPoint>
+      <navPoint id="cfa812c7-82b6-4870-98fd-f8dc96186343" playOrder="3">
+        <navLabel>
+          <text>２</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_7"/>
+      </navPoint>
+      <navPoint id="062f5928-a4b2-4c00-83c4-f6b32381c18a" playOrder="4">
+        <navLabel>
+          <text>３</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_8"/>
+      </navPoint>
+      <navPoint id="f2bb925c-7bad-471e-a2eb-0efd66db4ad8" playOrder="5">
+        <navLabel>
+          <text>４</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_9"/>
+      </navPoint>
+      <navPoint id="7ca563a4-705f-461c-b070-8c58eed5ec07" playOrder="6">
+        <navLabel>
+          <text>５</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_10"/>
+      </navPoint>
+      <navPoint id="3ed9de50-5e8a-4e66-9f89-179e9bdbfc45" playOrder="7">
+        <navLabel>
+          <text>６</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_11"/>
+      </navPoint>
+      <navPoint id="2cda443e-0b0c-49ec-80b7-3d382a5a265c" playOrder="8">
+        <navLabel>
+          <text>７</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_12"/>
+      </navPoint>
+      <navPoint id="39215393-17a8-4a5b-9f1a-6d9761f75df7" playOrder="9">
+        <navLabel>
+          <text>８</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="cbf87cc3-bd4a-4789-a2f9-9de11bcfcb57" playOrder="10">
+      <navLabel>
+        <text>第二章 百科全书学者</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+      <navPoint id="6182c5c0-c869-4625-89b0-fd22816dc7f6" playOrder="11">
+        <navLabel>
+          <text>１</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_14"/>
+      </navPoint>
+      <navPoint id="6f87cbf8-02a9-4828-90fa-345039007cc4" playOrder="12">
+        <navLabel>
+          <text>２</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_15"/>
+      </navPoint>
+      <navPoint id="49b8f0a6-3bcf-4e5c-adc8-00178d18a09c" playOrder="13">
+        <navLabel>
+          <text>３</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_16"/>
+      </navPoint>
+      <navPoint id="f89b7c09-461a-478c-95b0-952883c76a00" playOrder="14">
+        <navLabel>
+          <text>４</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_17"/>
+      </navPoint>
+      <navPoint id="afe2fe06-5694-4685-b806-9e66b9a8bb33" playOrder="15">
+        <navLabel>
+          <text>５</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_18"/>
+      </navPoint>
+      <navPoint id="d1d5df4d-98a7-48b1-8db0-2b163708a173" playOrder="16">
+        <navLabel>
+          <text>６</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_19"/>
+      </navPoint>
+      <navPoint id="c13a1b8c-c0bd-4ec5-91e1-a1c1e78012cd" playOrder="17">
+        <navLabel>
+          <text>７</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f14b597e-04e8-4b71-8bcb-a871444c94f7" playOrder="18">
+      <navLabel>
+        <text>第三章 市长</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="dc81dc88-7b77-452a-8697-f92af07f5ffc" playOrder="19">
+      <navLabel>
+        <text>第四章 行商</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+      <navPoint id="4fbda439-8bc5-4da1-98b9-953d00353447" playOrder="20">
+        <navLabel>
+          <text>１</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_21"/>
+      </navPoint>
+      <navPoint id="b2828e8a-a830-4a7d-9cb5-389248608cf3" playOrder="21">
+        <navLabel>
+          <text>２</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_22"/>
+      </navPoint>
+      <navPoint id="52a4e2f6-07bf-4475-9e05-55fd366ce515" playOrder="22">
+        <navLabel>
+          <text>３</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_23"/>
+      </navPoint>
+      <navPoint id="002ffbd4-0181-4ecd-933e-7dd0b7367fb4" playOrder="23">
+        <navLabel>
+          <text>４</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_24"/>
+      </navPoint>
+      <navPoint id="77a7777f-e301-4ce5-9f70-db16726f4616" playOrder="24">
+        <navLabel>
+          <text>５</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_25"/>
+      </navPoint>
+      <navPoint id="91425d38-2072-422c-9140-21ba304662d1" playOrder="25">
+        <navLabel>
+          <text>６</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="1a2c771b-dfef-416c-b3c9-1d269b15c795" playOrder="26">
+      <navLabel>
+        <text>第五章 商业钜子</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+      <navPoint id="bf804163-a794-48ec-81d9-dcfcc604f728" playOrder="27">
+        <navLabel>
+          <text>１</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_27"/>
+      </navPoint>
+      <navPoint id="e010b700-6eca-45cd-b9ad-2ded37069be8" playOrder="28">
+        <navLabel>
+          <text>２</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_28"/>
+      </navPoint>
+      <navPoint id="24e82971-769e-4c35-bd6a-8f5eadd9b2b6" playOrder="29">
+        <navLabel>
+          <text>３</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_29"/>
+      </navPoint>
+      <navPoint id="bd4b9761-50af-47c5-9b6f-08343ad6e8af" playOrder="30">
+        <navLabel>
+          <text>４</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_30"/>
+      </navPoint>
+      <navPoint id="50afeb36-fd28-444c-a1d3-e8880ba25539" playOrder="31">
+        <navLabel>
+          <text>５</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_31"/>
+      </navPoint>
+      <navPoint id="0749d642-a7dd-48b7-8743-fcb096f8369d" playOrder="32">
+        <navLabel>
+          <text>６</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_32"/>
+      </navPoint>
+      <navPoint id="92b286d8-7b97-4039-af00-49dc62f048a9" playOrder="33">
+        <navLabel>
+          <text>７</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_33"/>
+      </navPoint>
+      <navPoint id="af13ac88-1bc0-425a-b64a-b84ab983772b" playOrder="34">
+        <navLabel>
+          <text>８</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_34"/>
+      </navPoint>
+      <navPoint id="14f3fe3f-d7d5-4fbe-aa66-74f58fa90770" playOrder="35">
+        <navLabel>
+          <text>９</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_35"/>
+      </navPoint>
+      <navPoint id="d69ed010-ae1d-4230-9d5a-f0783207b77a" playOrder="36">
+        <navLabel>
+          <text>１０</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_36"/>
+      </navPoint>
+      <navPoint id="d383c8f1-9fbc-45d7-b72a-594f06e196ff" playOrder="37">
+        <navLabel>
+          <text>１１</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_37"/>
+      </navPoint>
+      <navPoint id="42d4c5f5-68af-46a3-96a4-d85260bf2ad0" playOrder="38">
+        <navLabel>
+          <text>１２</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_38"/>
+      </navPoint>
+      <navPoint id="dcd3b24c-1b0d-4adb-962a-491fe64a8f36" playOrder="39">
+        <navLabel>
+          <text>１３</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_39"/>
+      </navPoint>
+      <navPoint id="28bf26eb-290b-4fe8-91ca-baf32f91fcb0" playOrder="40">
+        <navLabel>
+          <text>１４</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_40"/>
+      </navPoint>
+      <navPoint id="4a016fac-0f00-44e8-9638-0ec2afe6ac0e" playOrder="41">
+        <navLabel>
+          <text>１５</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_41"/>
+      </navPoint>
+      <navPoint id="87d9e6a3-2b44-40cf-8dae-5610de8b4d52" playOrder="42">
+        <navLabel>
+          <text>１６</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_42"/>
+      </navPoint>
+      <navPoint id="bb7d65e9-b3d2-4056-b08c-5526ed22b58d" playOrder="43">
+        <navLabel>
+          <text>１７</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_43"/>
+      </navPoint>
+      <navPoint id="ada08da1-3226-4c09-a2ae-6308cf57578b" playOrder="44">
+        <navLabel>
+          <text>１８</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_44"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

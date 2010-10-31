@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="6184fe94-eb7c-44d9-96da-24e7b8a7188a" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地三部曲第2部.基地与帝国</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b9ce0d35-c1e5-4cf2-9cf8-76fbf4ac0c28" playOrder="1">
+      <navLabel>
+        <text>序 幕</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="ac97f39f-d7cb-417c-90cb-783ecbdb35af" playOrder="2">
+      <navLabel>
+        <text>将军-皇帝</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="80e25f0b-e25b-4ab0-8656-5823b6f5775f" playOrder="3">
+      <navLabel>
+        <text>将军-战端</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="f614e7b3-5327-4b02-a0d4-5764a2a67b1e" playOrder="4">
+      <navLabel>
+        <text>将军-宠臣</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="74c164bb-0462-471b-854d-eedfa2c52d68" playOrder="5">
+      <navLabel>
+        <text>将军-贿赂</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="70e4ef50-4f5b-4e29-a4c9-41f053ca45fe" playOrder="6">
+      <navLabel>
+        <text>将军-航向川陀</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="a863699f-322e-4c81-b019-f49f2354a2ed" playOrder="7">
+      <navLabel>
+        <text>将军-川陀</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="fd2c64cc-0038-4a3e-bebc-5547003ff4f9" playOrder="8">
+      <navLabel>
+        <text>将军-终战</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="01453501-9c1b-483d-9424-1158d42e6e4f" playOrder="9">
+      <navLabel>
+        <text>骡-大会</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="3c090798-6467-4ce1-b53f-dad7bf7d589e" playOrder="10">
+      <navLabel>
+        <text>骡-声光琴</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="dbc86fcb-bcb6-44ce-a8ec-836f0985aff6" playOrder="11">
+      <navLabel>
+        <text>骡-基地陷落</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="1d914410-c974-43c6-9300-5d8fc7be58f8" playOrder="12">
+      <navLabel>
+        <text>骡-寻找开始</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="9631ca47-32b1-4eed-95dd-f0544f622c02" playOrder="13">
+      <navLabel>
+        <text>骡-谋反者</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="ba14d97f-a93c-493d-ade2-d7392cde3d03" playOrder="14">
+      <navLabel>
+        <text>骡-星空插曲</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="b13e471a-4862-4a81-83d6-4a426f7211b0" playOrder="15">
+      <navLabel>
+        <text>骡-魂断新川陀</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="537cbe2a-bcaf-4a8c-932a-9cb9d04d496f" playOrder="16">
+      <navLabel>
+        <text>骡-川陀废墟</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="01e15623-b152-44f9-93b7-c1f775d1a5d0" playOrder="17">
+      <navLabel>
+        <text>骡-回转者</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="ae87deb4-37f9-48b6-8158-9c1936c9b393" playOrder="18">
+      <navLabel>
+        <text>就这一点而言，他们四人可以算是入侵者。笼罩着四面八方的真空状态，明显地不欢迎他们的到来。这里似乎仍然弥漫着当年的学术气息，对于外人的打搅表现出了不悦与不安。</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="7edf78ec-b770-47d0-b137-907acc50149b" playOrder="19">
+      <navLabel>
+        <text>骡-心理学家之死</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="a8ad80a6-44b6-42fc-ac42-a749ea5102bf" playOrder="20">
+      <navLabel>
+        <text>骡-寻找结束</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

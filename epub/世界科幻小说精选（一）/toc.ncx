@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="f73c1aef-aa26-4200-b755-0deaccd83b87" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>世界科幻小说精选（一）</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="eb02ce4e-b498-4546-8254-439ea824ae2a" playOrder="1">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="cf3ebe29-f8a3-41e2-9a5c-6933c7c6c3fd" playOrder="2">
+      <navLabel>
+        <text>一粒霰弹</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="76fcb14c-a85f-490e-8500-c443e9fce40d" playOrder="3">
+      <navLabel>
+        <text>丹尼飞上火星</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="4405dfa0-b221-4afe-a8b5-7c823a250399" playOrder="4">
+      <navLabel>
+        <text>乐趣</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="ec4e377a-136e-4a62-8725-c7ef59561a27" playOrder="5">
+      <navLabel>
+        <text>二00二年八月夜遇</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="b7ea24fa-d1f1-467c-9ace-385a72bc3728" playOrder="6">
+      <navLabel>
+        <text>侦察</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="3475e548-075e-4eb0-af87-5a9e7942fcf1" playOrder="7">
+      <navLabel>
+        <text>先取恐龙还是蛋</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="8cdf4c6f-adee-4cfe-9794-12f58d2f81c2" playOrder="8">
+      <navLabel>
+        <text>写作机器</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="34095d21-c13b-4119-a6f5-b2d5dfe53a1c" playOrder="9">
+      <navLabel>
+        <text>台球</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="67d6d0e8-54bb-46f7-b2b8-35598c8fb594" playOrder="10">
+      <navLabel>
+        <text>吻我</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="2dc26925-a70c-43c3-957d-a4bd5bf4c204" playOrder="11">
+      <navLabel>
+        <text>呼唤孩子</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="1cba6f65-80dd-4acc-9cc7-4cee14800616" playOrder="12">
+      <navLabel>
+        <text>地球上有生命吗？</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="e937c0cf-6c3a-4af7-bbbd-092e64cea936" playOrder="13">
+      <navLabel>
+        <text>城市</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="09872a43-5ce3-40db-897c-ba04c15b213f" playOrder="14">
+      <navLabel>
+        <text>复仇女神</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="3e4ab362-82fa-4381-ae36-6eed630bdf21" playOrder="15">
+      <navLabel>
+        <text>复苏</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="85c0d463-ae5a-4e96-9f3b-c9bd90a69b7e" playOrder="16">
+      <navLabel>
+        <text>天作之合</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="798747d0-77ab-46c6-ad8e-4cbcdec6eb43" playOrder="17">
+      <navLabel>
+        <text>太阳的故事</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="f025b708-d925-49ad-a15d-77d3348f48e4" playOrder="18">
+      <navLabel>
+        <text>孤独的萨拉</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="a20729ec-e77e-47ab-b06e-e307817888a2" playOrder="19">
+      <navLabel>
+        <text>巴比伦塔</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+      <navPoint id="d7147ab4-6b89-4907-b5bc-dd2e358c9b5a" playOrder="20">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_44"/>
+      </navPoint>
+      <navPoint id="f751ff9f-135f-40ce-b5e5-8882f5ee3615" playOrder="21">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_45"/>
+      </navPoint>
+      <navPoint id="1ff75ab1-b96c-4b96-99cc-fab720b166e1" playOrder="22">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_46"/>
+      </navPoint>
+      <navPoint id="29cff7dc-32b3-4257-bbf3-c0242e985447" playOrder="23">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_47"/>
+      </navPoint>
+      <navPoint id="39b8d47d-1c20-4d97-8b38-0246c3435a11" playOrder="24">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_48"/>
+      </navPoint>
+      <navPoint id="2b45dde2-a634-4d3c-81bb-c708f224ac80" playOrder="25">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_49"/>
+      </navPoint>
+      <navPoint id="c0ea041c-0f40-4693-bf04-b02a79064e7e" playOrder="26">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_50"/>
+      </navPoint>
+      <navPoint id="811d12fe-883e-43a6-97c3-88291c8a05e6" playOrder="27">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_51"/>
+      </navPoint>
+      <navPoint id="05c1427d-49af-43a5-9356-54cda9b7a5ba" playOrder="28">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_52"/>
+      </navPoint>
+      <navPoint id="f9f2f84f-596b-4390-8c69-642feb2e1fe5" playOrder="29">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_53"/>
+      </navPoint>
+      <navPoint id="055c906e-abc9-4a54-82b0-d3f1a6439086" playOrder="30">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_54"/>
+      </navPoint>
+      <navPoint id="b02c2aec-395c-40e7-a1cd-e1ac3a3a6221" playOrder="31">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_55"/>
+      </navPoint>
+      <navPoint id="00c0670d-a1d5-4020-863f-5d6ef1afd854" playOrder="32">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_56"/>
+      </navPoint>
+      <navPoint id="62b8c6a6-d6b7-4dad-a7ba-3f29e37e8ba8" playOrder="33">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_57"/>
+      </navPoint>
+      <navPoint id="07d39e82-c905-4599-8f95-280d8d12fb23" playOrder="34">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_58"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="4b0382c3-4db4-4c1b-ad3d-c36fd95c2db5" playOrder="35">
+      <navLabel>
+        <text>恶魔</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="f666eb47-f34d-4da4-8c97-1c002a70e97d" playOrder="36">
+      <navLabel>
+        <text>您爱吃苹果馅饼吗?</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="fc3a46b7-620a-4254-adc6-8387de11d0ea" playOrder="37">
+      <navLabel>
+        <text>挚友</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="947ad7d8-3264-4715-b5a7-c412f7be4f87" playOrder="38">
+      <navLabel>
+        <text>是谁抄袭谁？</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="aeb82de8-9550-4001-8bb4-b4d8198f43e3" playOrder="39">
+      <navLabel>
+        <text>木头脑瓜子</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="7f630fc9-efd5-461f-a5cd-71113ef3a7da" playOrder="40">
+      <navLabel>
+        <text>来自太平洋的海鸥</text>
+      </navLabel>
+      <content src="content_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="79e9e30f-b9a6-46a4-abc3-9ba1e76175a6" playOrder="41">
+      <navLabel>
+        <text>检察官的奇遇</text>
+      </navLabel>
+      <content src="content_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="ac37c9c6-8c11-4a96-9c4d-f6d3051e57fc" playOrder="42">
+      <navLabel>
+        <text>死人眼睛</text>
+      </navLabel>
+      <content src="content_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="531daa34-2ab2-4b1a-9b99-5c49914b8134" playOrder="43">
+      <navLabel>
+        <text>永生</text>
+      </navLabel>
+      <content src="content_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="5bd0cddd-bf01-4898-a620-bb1b4b80631a" playOrder="44">
+      <navLabel>
+        <text>汤姆·爱迪生的长毛狗</text>
+      </navLabel>
+      <content src="content_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="d2c4d00f-adce-4c7e-9b10-8eaa3f0132fd" playOrder="45">
+      <navLabel>
+        <text>波莱斯是个疯狂之地</text>
+      </navLabel>
+      <content src="content_split_030.xhtml"/>
+    </navPoint>
+    <navPoint id="bb362014-7680-4d0a-9664-101e622c033c" playOrder="46">
+      <navLabel>
+        <text>照片人</text>
+      </navLabel>
+      <content src="content_split_031.xhtml"/>
+    </navPoint>
+    <navPoint id="35036658-162d-40cb-b124-d0db4d74d6db" playOrder="47">
+      <navLabel>
+        <text>犹大</text>
+      </navLabel>
+      <content src="content_split_032.xhtml"/>
+    </navPoint>
+    <navPoint id="b70fdf64-1484-45f7-a8b0-681b3a6a599a" playOrder="48">
+      <navLabel>
+        <text>献给埃基尔侬的花</text>
+      </navLabel>
+      <content src="content_split_033.xhtml"/>
+    </navPoint>
+    <navPoint id="b13f3368-789c-4444-8877-af11ecd51f45" playOrder="49">
+      <navLabel>
+        <text>病毒去不掉</text>
+      </navLabel>
+      <content src="content_split_034.xhtml"/>
+    </navPoint>
+    <navPoint id="a0bf08af-0c6a-4f72-8e77-ba6502a7e484" playOrder="50">
+      <navLabel>
+        <text>百年一梦</text>
+      </navLabel>
+      <content src="content_split_035.xhtml"/>
+    </navPoint>
+    <navPoint id="be984c4b-7364-40aa-b9eb-ef9c149577b2" playOrder="51">
+      <navLabel>
+        <text>真爱</text>
+      </navLabel>
+      <content src="content_split_036.xhtml"/>
+    </navPoint>
+    <navPoint id="f7303445-dc16-4e75-b404-3af678a21565" playOrder="52">
+      <navLabel>
+        <text>秘密</text>
+      </navLabel>
+      <content src="content_split_037.xhtml"/>
+    </navPoint>
+    <navPoint id="15ac5362-1e27-4735-9a3d-cc4822b97701" playOrder="53">
+      <navLabel>
+        <text>编程者</text>
+      </navLabel>
+      <content src="content_split_038.xhtml"/>
+    </navPoint>
+    <navPoint id="82a52671-15eb-428f-a48e-728350612470" playOrder="54">
+      <navLabel>
+        <text>若伦星上的死神</text>
+      </navLabel>
+      <content src="content_split_039.xhtml"/>
+    </navPoint>
+    <navPoint id="bcbb0a31-5cc4-48d6-a478-749ada0901e4" playOrder="55">
+      <navLabel>
+        <text>豚鼠特鲁勒</text>
+      </navLabel>
+      <content src="content_split_040.xhtml"/>
+    </navPoint>
+    <navPoint id="edc49e1f-48a7-4487-ac1b-bc114806323e" playOrder="56">
+      <navLabel>
+        <text>赐予的瘟疫</text>
+      </navLabel>
+      <content src="content_split_041.xhtml"/>
+    </navPoint>
+    <navPoint id="20cc541a-9073-436c-82cf-06cca781c95c" playOrder="57">
+      <navLabel>
+        <text>雨一直下</text>
+      </navLabel>
+      <content src="content_split_042.xhtml"/>
+    </navPoint>
+    <navPoint id="899de554-f254-4d5b-b17f-382024675542" playOrder="58">
+      <navLabel>
+        <text>黑箱子</text>
+      </navLabel>
+      <content src="content_split_043.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

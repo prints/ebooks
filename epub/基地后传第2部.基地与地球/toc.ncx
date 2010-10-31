@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="450f4feb-f23f-4708-bf79-50c117114208" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地后传第2部.基地与地球</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="d969b327-adf0-44f8-95c4-b3ff438f27e9" playOrder="1">
+      <navLabel>
+        <text>序言</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+      <navPoint id="f247a862-7755-48ba-a50f-278a5a16c901" playOrder="2">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_7"/>
+      </navPoint>
+      <navPoint id="b184c82a-ec2b-4179-8c4e-32853f278c93" playOrder="3">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_8"/>
+      </navPoint>
+      <navPoint id="8ed79620-20ad-4e19-801f-9e1eca45ba62" playOrder="4">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_9"/>
+      </navPoint>
+      <navPoint id="b81fcd09-9b1a-405e-9d79-27e1a65ca90e" playOrder="5">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_001.xhtml#calibre_toc_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="1f025ccd-3db6-4d5e-9c01-deb48bb482c7" playOrder="6">
+      <navLabel>
+        <text>第二章 飞向康普力伦星</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+      <navPoint id="1eaec3e4-050d-4ead-a469-1a39967df8a7" playOrder="7">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_11"/>
+      </navPoint>
+      <navPoint id="54a5b53d-7613-417b-98d2-59dcf72dfecb" playOrder="8">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_12"/>
+      </navPoint>
+      <navPoint id="a24e136f-4f85-4596-a9c9-1d5ecf753746" playOrder="9">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_13"/>
+      </navPoint>
+      <navPoint id="2f6fd357-9a30-4b25-8d12-9d01439ffa2c" playOrder="10">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_002.xhtml#calibre_toc_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f2b1843d-edde-494c-bbc0-b8e184a61b0e" playOrder="11">
+      <navLabel>
+        <text>第三章 入口空间站</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+      <navPoint id="9d539452-190e-4038-a065-aacf04501a5e" playOrder="12">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_003.xhtml#calibre_toc_15"/>
+      </navPoint>
+      <navPoint id="bd0d0fe9-95ea-442e-be53-10963cdcfb11" playOrder="13">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_003.xhtml#calibre_toc_16"/>
+      </navPoint>
+      <navPoint id="0b0195d6-da55-4935-876a-179b9f516e87" playOrder="14">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_003.xhtml#calibre_toc_17"/>
+      </navPoint>
+      <navPoint id="b84e472a-9d22-43fb-a5e7-c00caf443490" playOrder="15">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="content_split_003.xhtml#calibre_toc_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="43feb3f7-a8e5-4f40-8018-7f4c31210f4c" playOrder="16">
+      <navLabel>
+        <text>第四章 在康普力伦星上</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+      <navPoint id="4895e7bc-2e4f-4092-a423-3ee521cece87" playOrder="17">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_19"/>
+      </navPoint>
+      <navPoint id="62053117-4d4d-46b4-893a-e6f091df9b0c" playOrder="18">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_20"/>
+      </navPoint>
+      <navPoint id="a85d9cab-832d-43da-bc34-a6b040201fd2" playOrder="19">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_21"/>
+      </navPoint>
+      <navPoint id="2dff2468-0194-46ff-81b9-b83a93122d6f" playOrder="20">
+        <navLabel>
+          <text>十六</text>
+        </navLabel>
+        <content src="content_split_004.xhtml#calibre_toc_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="7a790fa0-c349-4dc3-9a8e-a38e343d6f01" playOrder="21">
+      <navLabel>
+        <text>第五章 争夺飞船</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+      <navPoint id="e38ead3e-22bf-4b8c-a5d1-6e644683dad1" playOrder="22">
+        <navLabel>
+          <text>十七</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_23"/>
+      </navPoint>
+      <navPoint id="0d91a45e-ea07-466f-be12-eb3c1797d262" playOrder="23">
+        <navLabel>
+          <text>十八</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_24"/>
+      </navPoint>
+      <navPoint id="33b9fdda-7604-40e8-8579-5e23418bb4db" playOrder="24">
+        <navLabel>
+          <text>十九</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_25"/>
+      </navPoint>
+      <navPoint id="25e19ff9-755e-48bb-bb51-19036d59f792" playOrder="25">
+        <navLabel>
+          <text>二十</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_26"/>
+      </navPoint>
+      <navPoint id="d4a22173-d7e5-4685-a71a-c24118e04306" playOrder="26">
+        <navLabel>
+          <text>二十一</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_27"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="4f1f4652-fc03-4e84-9710-f681bb83959c" playOrder="27">
+      <navLabel>
+        <text>第六章 地球真面目（至三十）</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+      <navPoint id="23fb9e13-0042-4cd2-8c7c-21ae85239215" playOrder="28">
+        <navLabel>
+          <text>二十二</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_28"/>
+      </navPoint>
+      <navPoint id="2a1131b9-380d-442e-8f76-47b3f1b206b4" playOrder="29">
+        <navLabel>
+          <text>二十三</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_29"/>
+      </navPoint>
+      <navPoint id="15273c7f-81b4-40c8-8415-f4a089777ac3" playOrder="30">
+        <navLabel>
+          <text>二十四</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_30"/>
+      </navPoint>
+      <navPoint id="f68f6105-5946-4187-b21f-feea5435a76c" playOrder="31">
+        <navLabel>
+          <text>二十五</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_31"/>
+      </navPoint>
+      <navPoint id="cc8de3df-465d-4239-9f7a-dd28d171549e" playOrder="32">
+        <navLabel>
+          <text>二十七</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_32"/>
+      </navPoint>
+      <navPoint id="1e24e848-9967-45bc-a70f-5fc491731694" playOrder="33">
+        <navLabel>
+          <text>二十八</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_33"/>
+      </navPoint>
+      <navPoint id="37e82037-6175-4477-9e00-a38f0d8b739b" playOrder="34">
+        <navLabel>
+          <text>二十九</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_34"/>
+      </navPoint>
+      <navPoint id="af16701b-f6dd-4653-8efa-25860f9d7ca5" playOrder="35">
+        <navLabel>
+          <text>三十</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_35"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

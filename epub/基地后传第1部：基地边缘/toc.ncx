@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="d71c53d2-22e0-4e1c-a035-ecbfaa6ee0d9" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地后传第1部：基地边缘</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="3c81cf17-6708-4118-8cd5-bec181d16e56" playOrder="1">
+      <navLabel>
+        <text>基地边缘</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="bcfa9606-5b17-4fd7-a4a1-7d1574375cd5" playOrder="2">
+      <navLabel>
+        <text>大序：雄伟壮阔的“宇宙大织锦”</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="63168d34-adb9-4cc1-a54a-e47950f4ace5" playOrder="3">
+      <navLabel>
+        <text>张系国谈艾西莫夫</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="bf8e8f98-665b-4fdc-84ae-01d778f80496" playOrder="4">
+      <navLabel>
+        <text>序幕</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="961598cc-ac65-4101-b25c-d5386cfefedb" playOrder="5">
+      <navLabel>
+        <text>第一章　议员</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+      <navPoint id="9a2dc348-cf38-4333-9776-5c520c4c5d91" playOrder="6">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_25"/>
+      </navPoint>
+      <navPoint id="885f50cc-2fd1-477e-8e16-bbe884992fca" playOrder="7">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_26"/>
+      </navPoint>
+      <navPoint id="ee24b1de-9e89-4ebf-97b9-ad8d21e624d9" playOrder="8">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_27"/>
+      </navPoint>
+      <navPoint id="a611086b-ec28-4496-b268-416fc1010a04" playOrder="9">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="870fca55-0d17-4494-979c-b8eb77204d36" playOrder="10">
+      <navLabel>
+        <text>第二章　市长</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+      <navPoint id="50ac2f0b-b24c-4e4a-96d9-f5cea2ec9036" playOrder="11">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_29"/>
+      </navPoint>
+      <navPoint id="119e5290-0587-4d67-af94-08d24830a139" playOrder="12">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_30"/>
+      </navPoint>
+      <navPoint id="6767e5fd-a56d-465e-8c51-2f02a1fbcf0d" playOrder="13">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_31"/>
+      </navPoint>
+      <navPoint id="095455ed-7742-4251-84df-5a54b671248b" playOrder="14">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_32"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="e99a8d9b-bf75-48c2-86c5-d7f04d10e68d" playOrder="15">
+      <navLabel>
+        <text>第三章　历史学家</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+      <navPoint id="43806ba9-2179-40b2-a15a-af9796a428e6" playOrder="16">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_33"/>
+      </navPoint>
+      <navPoint id="ce3d5584-7764-4887-b200-57d0d462204d" playOrder="17">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_34"/>
+      </navPoint>
+      <navPoint id="f99dd6cf-ed5c-4c2a-98f7-5e325ba00da2" playOrder="18">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_35"/>
+      </navPoint>
+      <navPoint id="ce5d4505-27e7-446a-85d2-a314b3fbd861" playOrder="19">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_36"/>
+      </navPoint>
+      <navPoint id="2d863ba8-4ec7-465c-96ab-9d3eaf3d6dc5" playOrder="20">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_37"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="349d10ab-019c-4699-a480-609ad46baa7c" playOrder="21">
+      <navLabel>
+        <text>第四章　太空</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+      <navPoint id="a9bd4820-3835-41ef-b287-6844cdf260a1" playOrder="22">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_008.xhtml#calibre_toc_38"/>
+      </navPoint>
+      <navPoint id="99b94678-65ac-4286-9d81-048f784790ba" playOrder="23">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_008.xhtml#calibre_toc_39"/>
+      </navPoint>
+      <navPoint id="099c0cf7-c4a8-4018-b8d7-3bfecb473223" playOrder="24">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_008.xhtml#calibre_toc_40"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="17903a1c-9e13-4dc0-9eb8-78c750315cb5" playOrder="25">
+      <navLabel>
+        <text>第五章　发言者</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+      <navPoint id="4ca7d0ec-fade-4887-98a7-2af544ea877d" playOrder="26">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_009.xhtml#calibre_toc_41"/>
+      </navPoint>
+      <navPoint id="2fb05d8e-9028-4f55-b53f-e26e102cac20" playOrder="27">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_009.xhtml#calibre_toc_42"/>
+      </navPoint>
+      <navPoint id="8cbc46d1-e440-4f91-8e92-b1e4e8c80cec" playOrder="28">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_009.xhtml#calibre_toc_43"/>
+      </navPoint>
+      <navPoint id="d734ccff-208e-468d-bc00-8a5e581034fd" playOrder="29">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_009.xhtml#calibre_toc_44"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="d65bdd42-ec14-49b9-a78e-9351631ee08b" playOrder="30">
+      <navLabel>
+        <text>第六章　地球</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+      <navPoint id="6da357a3-fc9a-425f-9a66-b0de32caa865" playOrder="31">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_010.xhtml#calibre_toc_45"/>
+      </navPoint>
+      <navPoint id="da8c1636-53b9-4719-ac52-752d82d5c8f4" playOrder="32">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_010.xhtml#calibre_toc_46"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="5f9652f2-79bf-4492-acd5-9e05f329b2da" playOrder="33">
+      <navLabel>
+        <text>第七章　农夫</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+      <navPoint id="728d2e3f-426d-4928-99ec-37705a2b1259" playOrder="34">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_011.xhtml#calibre_toc_47"/>
+      </navPoint>
+      <navPoint id="42afcd05-0ac4-4178-ac8a-ae23a5e8471c" playOrder="35">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_011.xhtml#calibre_toc_48"/>
+      </navPoint>
+      <navPoint id="c7e1fe8d-53c9-4f02-8bb4-7960723584e8" playOrder="36">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_011.xhtml#calibre_toc_49"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="d4400ce9-a2c5-4d0b-b92b-a6e39c068f4f" playOrder="37">
+      <navLabel>
+        <text>第八章　农妇</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+      <navPoint id="be7e97ed-b895-4b7b-a205-23c69031ea6e" playOrder="38">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_012.xhtml#calibre_toc_50"/>
+      </navPoint>
+      <navPoint id="b1c48a72-d51c-4b6f-934b-5bfe6487d26f" playOrder="39">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_012.xhtml#calibre_toc_51"/>
+      </navPoint>
+      <navPoint id="ede6f391-dca6-444b-a589-794753b3f618" playOrder="40">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_012.xhtml#calibre_toc_52"/>
+      </navPoint>
+      <navPoint id="06158394-4e5e-443e-b045-bea391365fcc" playOrder="41">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_012.xhtml#calibre_toc_53"/>
+      </navPoint>
+      <navPoint id="b22a6b6e-eaaa-4917-848b-108b2e8d521c" playOrder="42">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_012.xhtml#calibre_toc_54"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="32512c37-dff8-4b84-959d-f890fb4f559d" playOrder="43">
+      <navLabel>
+        <text>第九章　超空间</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+      <navPoint id="c3c4ccff-c3e7-4b7b-8d93-ea6a839d879d" playOrder="44">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_013.xhtml#calibre_toc_55"/>
+      </navPoint>
+      <navPoint id="5003d457-c811-49d9-a272-30ccea61904d" playOrder="45">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_013.xhtml#calibre_toc_56"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="158e889d-539f-49a2-bcbf-70ffcc76421a" playOrder="46">
+      <navLabel>
+        <text>第十章　圆桌会议</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+      <navPoint id="2b3012a3-3a47-4a68-bc85-ab54faea5a68" playOrder="47">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_014.xhtml#calibre_toc_57"/>
+      </navPoint>
+      <navPoint id="77887e63-0fe7-47b5-a62a-db85f8a38f7a" playOrder="48">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_014.xhtml#calibre_toc_58"/>
+      </navPoint>
+      <navPoint id="16572f01-010b-4cfb-b580-aad03efa4ba5" playOrder="49">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_014.xhtml#calibre_toc_59"/>
+      </navPoint>
+      <navPoint id="c7aff3b1-8375-4b39-b316-fbafee290d9b" playOrder="50">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_014.xhtml#calibre_toc_60"/>
+      </navPoint>
+      <navPoint id="21aa41a3-fe30-440c-a8cc-5770de899c4d" playOrder="51">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_014.xhtml#calibre_toc_61"/>
+      </navPoint>
+      <navPoint id="a0e61db3-139f-4fe4-a96d-c29b9abc237b" playOrder="52">
+        <navLabel>
+          <text>第6节</text>
+        </navLabel>
+        <content src="content_split_014.xhtml#calibre_toc_62"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="1f0b2f7a-986a-45dd-a8c6-9288a1c19266" playOrder="53">
+      <navLabel>
+        <text>第十一章　赛协尔</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+      <navPoint id="11e9ec52-7fc7-4830-b32f-8dd3108b77fd" playOrder="54">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_015.xhtml#calibre_toc_63"/>
+      </navPoint>
+      <navPoint id="0c00ddff-8359-4598-a2f6-dc68ef40f8c4" playOrder="55">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_015.xhtml#calibre_toc_64"/>
+      </navPoint>
+      <navPoint id="bb1e266d-e7c2-47be-9232-68cbc72a567d" playOrder="56">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_015.xhtml#calibre_toc_65"/>
+      </navPoint>
+      <navPoint id="4beae1b4-047d-4339-96d5-1c826e1b4fff" playOrder="57">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_015.xhtml#calibre_toc_66"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f98f4e1a-ec40-4bd7-9379-f7639a7288c5" playOrder="58">
+      <navLabel>
+        <text>第十二章　特务</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+      <navPoint id="245b945c-b9c8-4f5d-aedf-7f034d4c19c6" playOrder="59">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_016.xhtml#calibre_toc_67"/>
+      </navPoint>
+      <navPoint id="e2d89a76-8a30-49cc-b733-46e49dc9ebab" playOrder="60">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_016.xhtml#calibre_toc_68"/>
+      </navPoint>
+      <navPoint id="f9d1d534-e4a3-4a6e-b6ed-dd95e5ac038c" playOrder="61">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_016.xhtml#calibre_toc_69"/>
+      </navPoint>
+      <navPoint id="eef12b42-f57a-4847-9086-bf14ba008089" playOrder="62">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_016.xhtml#calibre_toc_70"/>
+      </navPoint>
+      <navPoint id="a595c6e4-9a29-4d4d-a5b0-0d696dae28f2" playOrder="63">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_016.xhtml#calibre_toc_71"/>
+      </navPoint>
+      <navPoint id="8a14801b-00e5-48a1-9caf-ea61ee73e3c7" playOrder="64">
+        <navLabel>
+          <text>第6节</text>
+        </navLabel>
+        <content src="content_split_016.xhtml#calibre_toc_72"/>
+      </navPoint>
+      <navPoint id="7dda23cd-c1f8-4934-971a-4eb4154c340e" playOrder="65">
+        <navLabel>
+          <text>第7节</text>
+        </navLabel>
+        <content src="content_split_016.xhtml#calibre_toc_73"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="49dbb3b8-0510-4793-8053-141196947d2a" playOrder="66">
+      <navLabel>
+        <text>第十三章　大学</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+      <navPoint id="f5a6beb6-536d-4e85-ae05-7f9a2e926b4c" playOrder="67">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_74"/>
+      </navPoint>
+      <navPoint id="2bd7a0f1-af7b-494f-85c5-2b27b5f4f316" playOrder="68">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_75"/>
+      </navPoint>
+      <navPoint id="7190a87e-d793-4ebd-b6a6-7abe22dc82be" playOrder="69">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_76"/>
+      </navPoint>
+      <navPoint id="e42fc5da-8863-413b-b1b7-2523f6fcc154" playOrder="70">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_77"/>
+      </navPoint>
+      <navPoint id="5adaf0ef-2e7c-4280-bb15-a4da760efec0" playOrder="71">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_017.xhtml#calibre_toc_78"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="13fa6f38-81ac-45f0-8b4f-17c5f903a556" playOrder="72">
+      <navLabel>
+        <text>第十四章　前进</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+      <navPoint id="cd0c771f-965f-4927-abc3-895225848b7e" playOrder="73">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_79"/>
+      </navPoint>
+      <navPoint id="4a4efc78-2262-4180-80e0-f8a8d9bbba03" playOrder="74">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_80"/>
+      </navPoint>
+      <navPoint id="c338135d-6b19-4635-adee-f5c2e270af7f" playOrder="75">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_81"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="2a92718d-12fa-4c9f-a5b3-05296cf586d8" playOrder="76">
+      <navLabel>
+        <text>第十五章　盖娅之阳</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+      <navPoint id="57d71d71-2499-45c1-bef6-bda5682e1938" playOrder="77">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_82"/>
+      </navPoint>
+      <navPoint id="79a117ae-9516-4c8b-aa99-357d21b862ba" playOrder="78">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_83"/>
+      </navPoint>
+      <navPoint id="6470705c-d490-4d6a-ae0d-9f05c11e7ee5" playOrder="79">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_84"/>
+      </navPoint>
+      <navPoint id="aea5ca55-26e8-4378-a263-88556e0e10a4" playOrder="80">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_85"/>
+      </navPoint>
+      <navPoint id="f36aedd4-2000-4b3e-bd48-ffd31b5b20d5" playOrder="81">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_86"/>
+      </navPoint>
+      <navPoint id="0c915736-8221-481c-a2c4-0135ffad40bc" playOrder="82">
+        <navLabel>
+          <text>第6节</text>
+        </navLabel>
+        <content src="content_split_019.xhtml#calibre_toc_87"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f44e5015-4896-4d62-8cf1-73e599623ea0" playOrder="83">
+      <navLabel>
+        <text>第十六章　焦点</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+      <navPoint id="383bc83a-bd6d-4f0a-8ea2-88b5a1c0ab8c" playOrder="84">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_020.xhtml#calibre_toc_88"/>
+      </navPoint>
+      <navPoint id="986b240d-04c6-4fe5-8bbf-ccacdf7c2cac" playOrder="85">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_020.xhtml#calibre_toc_89"/>
+      </navPoint>
+      <navPoint id="2f0e65f8-cc1d-489f-8835-6ea3bdf89ae4" playOrder="86">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_020.xhtml#calibre_toc_90"/>
+      </navPoint>
+      <navPoint id="f5ffb9f8-cd1e-4636-96d9-203da4a0b9b9" playOrder="87">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_020.xhtml#calibre_toc_91"/>
+      </navPoint>
+      <navPoint id="ada90226-bfbd-4842-8023-0838bbd3addd" playOrder="88">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_020.xhtml#calibre_toc_92"/>
+      </navPoint>
+      <navPoint id="06c30405-c8a6-49d1-b7a5-013b471e7b8f" playOrder="89">
+        <navLabel>
+          <text>第6节</text>
+        </navLabel>
+        <content src="content_split_020.xhtml#calibre_toc_93"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="03f1620d-b6aa-4c10-89dd-4c422733ef58" playOrder="90">
+      <navLabel>
+        <text>第十七章　盖娅</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+      <navPoint id="3b6b3e52-5a88-4396-9e38-eb45e6bab866" playOrder="91">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_021.xhtml#calibre_toc_94"/>
+      </navPoint>
+      <navPoint id="270b5f9a-e314-4513-ac55-0990220e1c08" playOrder="92">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_021.xhtml#calibre_toc_95"/>
+      </navPoint>
+      <navPoint id="6f4d0cfc-a197-42b4-8ac6-c76ba39bcd71" playOrder="93">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_021.xhtml#calibre_toc_96"/>
+      </navPoint>
+      <navPoint id="9f3d6d68-cbe7-4718-aab2-7715f14c871b" playOrder="94">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_021.xhtml#calibre_toc_97"/>
+      </navPoint>
+      <navPoint id="f7b59396-3f15-47cb-ba03-49542c491c42" playOrder="95">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_021.xhtml#calibre_toc_98"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="b91ac14c-8d44-41c3-8508-5af45171fa64" playOrder="96">
+      <navLabel>
+        <text>第十八章　碰撞</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+      <navPoint id="f3caec61-16b2-4d4f-85e3-dfc7107d1072" playOrder="97">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_99"/>
+      </navPoint>
+      <navPoint id="31458858-fe45-4db9-bf78-a3969efa9a47" playOrder="98">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_100"/>
+      </navPoint>
+      <navPoint id="e5662099-9b16-4106-9a5d-42cba8ba3481" playOrder="99">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_101"/>
+      </navPoint>
+      <navPoint id="8b1d57d4-0762-43f0-8c27-fb41c32217ad" playOrder="100">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_102"/>
+      </navPoint>
+      <navPoint id="765d302c-9951-4219-a247-5b166a3ecb05" playOrder="101">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_103"/>
+      </navPoint>
+      <navPoint id="d56a83d1-23dd-4527-8901-8d723c726486" playOrder="102">
+        <navLabel>
+          <text>第6节</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_104"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="0433bb1a-bd9f-4678-aa11-7a3212d74595" playOrder="103">
+      <navLabel>
+        <text>第十九章　抉择</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+      <navPoint id="1f83067b-7332-49ac-ae37-e27383346a93" playOrder="104">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_023.xhtml#calibre_toc_105"/>
+      </navPoint>
+      <navPoint id="61836035-ef91-44be-9a94-65505b091386" playOrder="105">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_023.xhtml#calibre_toc_106"/>
+      </navPoint>
+      <navPoint id="ac918269-7c48-4812-af44-23195e77faad" playOrder="106">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_023.xhtml#calibre_toc_107"/>
+      </navPoint>
+      <navPoint id="ed29e49c-6983-4a19-aa56-374b2ba04e71" playOrder="107">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_023.xhtml#calibre_toc_108"/>
+      </navPoint>
+      <navPoint id="0f8e073f-350c-493e-aa89-e08e45a48154" playOrder="108">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_023.xhtml#calibre_toc_109"/>
+      </navPoint>
+      <navPoint id="9c78f0ae-10fe-42cb-965d-d6f57dc26d47" playOrder="109">
+        <navLabel>
+          <text>第6节</text>
+        </navLabel>
+        <content src="content_split_023.xhtml#calibre_toc_110"/>
+      </navPoint>
+      <navPoint id="f52a3df7-dceb-433f-a3e8-d266ee69f71f" playOrder="110">
+        <navLabel>
+          <text>第7节</text>
+        </navLabel>
+        <content src="content_split_023.xhtml#calibre_toc_111"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="136f6df1-7f91-4b4f-a81f-ddbe84c91ec8" playOrder="111">
+      <navLabel>
+        <text>第二十章　结局</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+      <navPoint id="e0d6647a-6bbe-4045-934f-e3995a3487a7" playOrder="112">
+        <navLabel>
+          <text>第1节</text>
+        </navLabel>
+        <content src="content_split_024.xhtml#calibre_toc_112"/>
+      </navPoint>
+      <navPoint id="4f0b7565-a21a-47b4-8230-3bcbfbff90c9" playOrder="113">
+        <navLabel>
+          <text>第2节</text>
+        </navLabel>
+        <content src="content_split_024.xhtml#calibre_toc_113"/>
+      </navPoint>
+      <navPoint id="27a75bf7-9601-4452-af18-b0c1f12ec255" playOrder="114">
+        <navLabel>
+          <text>第3节</text>
+        </navLabel>
+        <content src="content_split_024.xhtml#calibre_toc_114"/>
+      </navPoint>
+      <navPoint id="388b932d-943a-47aa-8528-5090a252ca17" playOrder="115">
+        <navLabel>
+          <text>第4节</text>
+        </navLabel>
+        <content src="content_split_024.xhtml#calibre_toc_115"/>
+      </navPoint>
+      <navPoint id="22d6a87d-88d6-40f5-b577-d2cc40e5c321" playOrder="116">
+        <navLabel>
+          <text>第5节</text>
+        </navLabel>
+        <content src="content_split_024.xhtml#calibre_toc_116"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

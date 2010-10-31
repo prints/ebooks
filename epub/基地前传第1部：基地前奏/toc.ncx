@@ -1,0 +1,717 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="f154f96f-5c47-4a0f-b7b3-a568678c8adf" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地前传第1部：基地前奏</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="90102593-280a-4792-80b4-c0c1e9b47d4d" playOrder="1">
+      <navLabel>
+        <text>基地前奏</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="f84de7ea-b69d-4aee-bdf2-20430e0242e8" playOrder="2">
+      <navLabel>
+        <text>序</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="38f570cb-b0fa-4dc6-be75-94c0ede085b0" playOrder="3">
+      <navLabel>
+        <text>张系国谈阿西莫夫</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="3eec1c6e-b876-44bf-9310-4040d2d2da6e" playOrder="4">
+      <navLabel>
+        <text>作者的话</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="ae0ed316-b78b-45ed-b26c-cafb50a00918" playOrder="5">
+      <navLabel>
+        <text>第一部　数学家</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="6f309d43-3212-4502-a59f-7aede767de6e" playOrder="6">
+      <navLabel>
+        <text>第一章</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="71117420-f91a-4b8e-9b1f-6ca13e2b99a9" playOrder="7">
+      <navLabel>
+        <text>第二章</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="fa6dfcd3-4ad1-42a6-902f-319cfb4c2944" playOrder="8">
+      <navLabel>
+        <text>第三章</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="e4f6dad1-74e8-4595-8cf1-d5754afc1802" playOrder="9">
+      <navLabel>
+        <text>第四章</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="b1257939-45d6-45b9-951d-44656893a1cd" playOrder="10">
+      <navLabel>
+        <text>第五章</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="7f50a4ef-9537-4d34-9e55-92b30678e1e3" playOrder="11">
+      <navLabel>
+        <text>第二部　逃亡</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="00eaa3dc-8ab0-4971-b5aa-609c8dfba444" playOrder="12">
+      <navLabel>
+        <text>第六章</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="6fc38bd3-bea5-4fa3-b401-d1d815d6436b" playOrder="13">
+      <navLabel>
+        <text>第七章</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="5c27b9b3-9162-4f28-81d8-3b528b65c599" playOrder="14">
+      <navLabel>
+        <text>第八章</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="37e373d0-d18c-45d0-9ae5-89fb89805677" playOrder="15">
+      <navLabel>
+        <text>第九章</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="246aa0cc-0507-4949-a064-f649832747c0" playOrder="16">
+      <navLabel>
+        <text>第十章</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="cd1e1a5a-f611-4efd-b808-cd50a084e64c" playOrder="17">
+      <navLabel>
+        <text>第三部　大学</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="6d04529c-5f81-4c64-b788-489274b88172" playOrder="18">
+      <navLabel>
+        <text>第十一章</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="0f2e346b-4a0a-44a6-a0a1-92ee0655c1e1" playOrder="19">
+      <navLabel>
+        <text>第十二章</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="636b48d4-c1d5-468c-aa9e-e39a3193ede6" playOrder="20">
+      <navLabel>
+        <text>第十三章</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="dd5d2e27-0fd2-43a1-98f9-68832c973081" playOrder="21">
+      <navLabel>
+        <text>第十四章</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="9f736603-55c1-4337-9de8-f0b18cb8bb78" playOrder="22">
+      <navLabel>
+        <text>第十五章</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="e15f3bba-242e-4452-96cb-7c638dc36351" playOrder="23">
+      <navLabel>
+        <text>第四部　图书馆</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="ad360cb5-6510-4c45-90dd-02ca0f2b0f48" playOrder="24">
+      <navLabel>
+        <text>第十六章</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="76c7d0e7-72cf-46f8-987b-a9a0f5119366" playOrder="25">
+      <navLabel>
+        <text>第十七章</text>
+      </navLabel>
+      <content src="content_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="9f4edce6-d4b9-4b16-9c31-875a3ef1afd0" playOrder="26">
+      <navLabel>
+        <text>第十八章</text>
+      </navLabel>
+      <content src="content_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="890ac7eb-c4d1-4095-9a3c-caa6c1c65aa5" playOrder="27">
+      <navLabel>
+        <text>第十九章</text>
+      </navLabel>
+      <content src="content_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="3121d10d-15dd-411b-b005-5638f99208b0" playOrder="28">
+      <navLabel>
+        <text>第二十章</text>
+      </navLabel>
+      <content src="content_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="a5161c7d-e55c-4974-a089-ba942fb4018e" playOrder="29">
+      <navLabel>
+        <text>第五部　穹顶上</text>
+      </navLabel>
+      <content src="content_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="cfe32664-38db-4671-bc9d-7fd7863a36bd" playOrder="30">
+      <navLabel>
+        <text>第二十一章</text>
+      </navLabel>
+      <content src="content_split_030.xhtml"/>
+    </navPoint>
+    <navPoint id="6e631042-410b-4896-9793-b56cd05f4d0e" playOrder="31">
+      <navLabel>
+        <text>第二十二章</text>
+      </navLabel>
+      <content src="content_split_031.xhtml"/>
+    </navPoint>
+    <navPoint id="6c983fdb-c0fd-4c1f-bbff-7ded5edc9fb2" playOrder="32">
+      <navLabel>
+        <text>第二十三章</text>
+      </navLabel>
+      <content src="content_split_032.xhtml"/>
+    </navPoint>
+    <navPoint id="93a97c0f-4127-426b-9a42-8b8dd07bf326" playOrder="33">
+      <navLabel>
+        <text>第二十四章</text>
+      </navLabel>
+      <content src="content_split_033.xhtml"/>
+    </navPoint>
+    <navPoint id="b5c2ac0b-7155-4463-897e-da4582b13d83" playOrder="34">
+      <navLabel>
+        <text>第六部　拯救</text>
+      </navLabel>
+      <content src="content_split_034.xhtml"/>
+    </navPoint>
+    <navPoint id="0322911a-54f0-44cb-aff3-b84bbd90cdd8" playOrder="35">
+      <navLabel>
+        <text>第二十五章</text>
+      </navLabel>
+      <content src="content_split_035.xhtml"/>
+    </navPoint>
+    <navPoint id="cee62e93-1b96-4cfd-88a8-5f5f28102ec5" playOrder="36">
+      <navLabel>
+        <text>第二十六章</text>
+      </navLabel>
+      <content src="content_split_036.xhtml"/>
+    </navPoint>
+    <navPoint id="9e2ad33d-f0ea-48bf-9bda-4ca85d557ea1" playOrder="37">
+      <navLabel>
+        <text>第二十七章</text>
+      </navLabel>
+      <content src="content_split_037.xhtml"/>
+    </navPoint>
+    <navPoint id="dabd50c5-a56b-4189-b48a-041b2c83d6e5" playOrder="38">
+      <navLabel>
+        <text>第二十八章</text>
+      </navLabel>
+      <content src="content_split_038.xhtml"/>
+    </navPoint>
+    <navPoint id="e607f74e-2f0b-4253-96f5-d27c75263b9f" playOrder="39">
+      <navLabel>
+        <text>第二十九章</text>
+      </navLabel>
+      <content src="content_split_039.xhtml"/>
+    </navPoint>
+    <navPoint id="29223503-0da7-4ac6-9943-45da4fcb3dc6" playOrder="40">
+      <navLabel>
+        <text>第三十章</text>
+      </navLabel>
+      <content src="content_split_040.xhtml"/>
+    </navPoint>
+    <navPoint id="aa3c18fc-7f49-47fc-9bee-4d46b04fb5e4" playOrder="41">
+      <navLabel>
+        <text>第七部　麦曲生</text>
+      </navLabel>
+      <content src="content_split_041.xhtml"/>
+    </navPoint>
+    <navPoint id="536e62ba-dc5d-40c3-a115-7a211037b535" playOrder="42">
+      <navLabel>
+        <text>第三十一章</text>
+      </navLabel>
+      <content src="content_split_042.xhtml"/>
+    </navPoint>
+    <navPoint id="d398ed0b-62f0-4488-a9fb-96d77dbc96d9" playOrder="43">
+      <navLabel>
+        <text>第三十二章</text>
+      </navLabel>
+      <content src="content_split_043.xhtml"/>
+    </navPoint>
+    <navPoint id="14e8a196-9279-4dee-9584-a781bd278f22" playOrder="44">
+      <navLabel>
+        <text>第三十三章</text>
+      </navLabel>
+      <content src="content_split_044.xhtml"/>
+    </navPoint>
+    <navPoint id="b88e15d6-c040-497d-b8b5-569904b58973" playOrder="45">
+      <navLabel>
+        <text>第三十四章</text>
+      </navLabel>
+      <content src="content_split_045.xhtml"/>
+    </navPoint>
+    <navPoint id="6bf02407-7654-4702-bcfd-cf710fcdc92f" playOrder="46">
+      <navLabel>
+        <text>第八部　日主</text>
+      </navLabel>
+      <content src="content_split_046.xhtml"/>
+    </navPoint>
+    <navPoint id="33b071ad-5d19-49f5-b7ea-ebe877602ecd" playOrder="47">
+      <navLabel>
+        <text>第三十五章</text>
+      </navLabel>
+      <content src="content_split_047.xhtml"/>
+    </navPoint>
+    <navPoint id="9884da8b-1d42-4917-a4ed-25bd866cd4fd" playOrder="48">
+      <navLabel>
+        <text>第三十六章</text>
+      </navLabel>
+      <content src="content_split_048.xhtml"/>
+    </navPoint>
+    <navPoint id="ffdc5721-4873-4aae-b204-72a5167caa1c" playOrder="49">
+      <navLabel>
+        <text>第三十七章</text>
+      </navLabel>
+      <content src="content_split_049.xhtml"/>
+    </navPoint>
+    <navPoint id="b89d0c91-d631-4a34-bfb6-59564e1384a8" playOrder="50">
+      <navLabel>
+        <text>第三十八章</text>
+      </navLabel>
+      <content src="content_split_050.xhtml"/>
+    </navPoint>
+    <navPoint id="8783bc75-bb3a-4630-90f6-39ecec9d895a" playOrder="51">
+      <navLabel>
+        <text>第三十九章</text>
+      </navLabel>
+      <content src="content_split_051.xhtml"/>
+    </navPoint>
+    <navPoint id="816dd1a2-a180-48a0-9226-490850e49373" playOrder="52">
+      <navLabel>
+        <text>第四十章</text>
+      </navLabel>
+      <content src="content_split_052.xhtml"/>
+    </navPoint>
+    <navPoint id="cd7747f1-4911-436f-8b3e-34b6e3957da4" playOrder="53">
+      <navLabel>
+        <text>第九部　微生农场</text>
+      </navLabel>
+      <content src="content_split_053.xhtml"/>
+    </navPoint>
+    <navPoint id="6bfa9024-5e74-4a8e-8d87-e23eaebba8a7" playOrder="54">
+      <navLabel>
+        <text>第四十一章</text>
+      </navLabel>
+      <content src="content_split_054.xhtml"/>
+    </navPoint>
+    <navPoint id="469ba031-66b0-4982-918d-052b20366fc6" playOrder="55">
+      <navLabel>
+        <text>第四十二章</text>
+      </navLabel>
+      <content src="content_split_055.xhtml"/>
+    </navPoint>
+    <navPoint id="a6514ab6-01f5-49f5-b63a-44863e3c80ce" playOrder="56">
+      <navLabel>
+        <text>第四十三章</text>
+      </navLabel>
+      <content src="content_split_056.xhtml"/>
+    </navPoint>
+    <navPoint id="0435b510-f9f1-4616-91a1-b3f7146a266f" playOrder="57">
+      <navLabel>
+        <text>第四十四章</text>
+      </navLabel>
+      <content src="content_split_057.xhtml"/>
+    </navPoint>
+    <navPoint id="9a83afd2-61a6-4758-90cb-8bcda2c74af2" playOrder="58">
+      <navLabel>
+        <text>第十部　典籍</text>
+      </navLabel>
+      <content src="content_split_058.xhtml"/>
+    </navPoint>
+    <navPoint id="636b5469-bfea-4dad-9764-5f8adbdef1ec" playOrder="59">
+      <navLabel>
+        <text>第四十五章</text>
+      </navLabel>
+      <content src="content_split_059.xhtml"/>
+    </navPoint>
+    <navPoint id="6363d07e-5fc8-48a9-bdb7-af2fc3710f94" playOrder="60">
+      <navLabel>
+        <text>第四十六章</text>
+      </navLabel>
+      <content src="content_split_060.xhtml"/>
+    </navPoint>
+    <navPoint id="362b1b1b-56a9-4046-b6b7-bbdc98ab297e" playOrder="61">
+      <navLabel>
+        <text>第四十七章</text>
+      </navLabel>
+      <content src="content_split_061.xhtml"/>
+    </navPoint>
+    <navPoint id="c710d75a-d010-4859-9371-ba5d1e3215b4" playOrder="62">
+      <navLabel>
+        <text>第四十八章</text>
+      </navLabel>
+      <content src="content_split_062.xhtml"/>
+    </navPoint>
+    <navPoint id="d97dd19d-d560-4b22-9199-48c65f497737" playOrder="63">
+      <navLabel>
+        <text>第四十九章</text>
+      </navLabel>
+      <content src="content_split_063.xhtml"/>
+    </navPoint>
+    <navPoint id="bd7eba26-8c20-4bce-9a97-a379b431b3e2" playOrder="64">
+      <navLabel>
+        <text>第十一部　圣堂</text>
+      </navLabel>
+      <content src="content_split_064.xhtml"/>
+    </navPoint>
+    <navPoint id="0cc6dc56-e7bb-4ef9-919b-e93bb0f8cfea" playOrder="65">
+      <navLabel>
+        <text>第五十章</text>
+      </navLabel>
+      <content src="content_split_065.xhtml"/>
+    </navPoint>
+    <navPoint id="13ebe50c-2ae3-4208-babb-69f31887becf" playOrder="66">
+      <navLabel>
+        <text>第五十一章</text>
+      </navLabel>
+      <content src="content_split_066.xhtml"/>
+    </navPoint>
+    <navPoint id="13d21ac4-242e-4ee1-bd4a-8b9c4e75a785" playOrder="67">
+      <navLabel>
+        <text>第五十二章</text>
+      </navLabel>
+      <content src="content_split_067.xhtml"/>
+    </navPoint>
+    <navPoint id="79b8802d-daa8-4d7e-96d2-dbdf94613ede" playOrder="68">
+      <navLabel>
+        <text>第五十三章</text>
+      </navLabel>
+      <content src="content_split_068.xhtml"/>
+    </navPoint>
+    <navPoint id="21b393a4-4a30-42e8-be88-bab04df8d999" playOrder="69">
+      <navLabel>
+        <text>第五十四章</text>
+      </navLabel>
+      <content src="content_split_069.xhtml"/>
+    </navPoint>
+    <navPoint id="0b266a05-3889-40a9-8c92-e5fb678d37d4" playOrder="70">
+      <navLabel>
+        <text>第五十五章</text>
+      </navLabel>
+      <content src="content_split_070.xhtml"/>
+    </navPoint>
+    <navPoint id="c4a7211a-3687-4f5e-b7aa-004badf99d1f" playOrder="71">
+      <navLabel>
+        <text>第十二部　长老阁</text>
+      </navLabel>
+      <content src="content_split_071.xhtml"/>
+    </navPoint>
+    <navPoint id="e1d36213-f430-4c6d-8622-ba5a4ec2af67" playOrder="72">
+      <navLabel>
+        <text>第五十六章</text>
+      </navLabel>
+      <content src="content_split_072.xhtml"/>
+    </navPoint>
+    <navPoint id="9677becb-2010-4276-ad6a-514a4f66b8a6" playOrder="73">
+      <navLabel>
+        <text>第五十七章</text>
+      </navLabel>
+      <content src="content_split_073.xhtml"/>
+    </navPoint>
+    <navPoint id="f262aaea-7c2b-44ee-8102-2142aca3ecf2" playOrder="74">
+      <navLabel>
+        <text>第五十八章</text>
+      </navLabel>
+      <content src="content_split_074.xhtml"/>
+    </navPoint>
+    <navPoint id="42503db6-303d-4aba-aa7d-47699f41192c" playOrder="75">
+      <navLabel>
+        <text>第五十九章</text>
+      </navLabel>
+      <content src="content_split_075.xhtml"/>
+    </navPoint>
+    <navPoint id="741c7e24-a6be-41a2-9a85-98a66335b365" playOrder="76">
+      <navLabel>
+        <text>第六十章</text>
+      </navLabel>
+      <content src="content_split_076.xhtml"/>
+    </navPoint>
+    <navPoint id="441a4c5f-f615-4b5e-8e69-9309bc47bc69" playOrder="77">
+      <navLabel>
+        <text>第十三部　热闾</text>
+      </navLabel>
+      <content src="content_split_077.xhtml"/>
+    </navPoint>
+    <navPoint id="39cec816-1a3c-4e1c-a1a6-8bfb760ff0b0" playOrder="78">
+      <navLabel>
+        <text>第六十一章</text>
+      </navLabel>
+      <content src="content_split_078.xhtml"/>
+    </navPoint>
+    <navPoint id="1607ae40-0d1c-4cbb-be42-029653f10324" playOrder="79">
+      <navLabel>
+        <text>第六十二章</text>
+      </navLabel>
+      <content src="content_split_079.xhtml"/>
+    </navPoint>
+    <navPoint id="f5dcd63d-e049-4400-a3be-0c57f92750a6" playOrder="80">
+      <navLabel>
+        <text>第六十三章</text>
+      </navLabel>
+      <content src="content_split_080.xhtml"/>
+    </navPoint>
+    <navPoint id="ccb98af0-90db-4eb2-b22b-25b0dcf64acc" playOrder="81">
+      <navLabel>
+        <text>第六十四章</text>
+      </navLabel>
+      <content src="content_split_081.xhtml"/>
+    </navPoint>
+    <navPoint id="a99c7799-adfc-4e1b-937d-ad6e5db2ce5e" playOrder="82">
+      <navLabel>
+        <text>第六十五章</text>
+      </navLabel>
+      <content src="content_split_082.xhtml"/>
+    </navPoint>
+    <navPoint id="2507495d-fd14-4cf7-ad1d-c601652f70c5" playOrder="83">
+      <navLabel>
+        <text>第十四部　脐眼</text>
+      </navLabel>
+      <content src="content_split_083.xhtml"/>
+    </navPoint>
+    <navPoint id="547cb26f-1d13-4cf6-9ed6-e6b3635fd1ea" playOrder="84">
+      <navLabel>
+        <text>第六十六章</text>
+      </navLabel>
+      <content src="content_split_084.xhtml"/>
+    </navPoint>
+    <navPoint id="6fc362af-3ab5-4c3b-a43f-e4dca3ce01d2" playOrder="85">
+      <navLabel>
+        <text>第六十七章</text>
+      </navLabel>
+      <content src="content_split_085.xhtml"/>
+    </navPoint>
+    <navPoint id="8754c995-4e2e-4592-840d-8fb994390210" playOrder="86">
+      <navLabel>
+        <text>第六十八章</text>
+      </navLabel>
+      <content src="content_split_086.xhtml"/>
+    </navPoint>
+    <navPoint id="a7d20d54-38cd-442d-a6a3-3ef081cb6b92" playOrder="87">
+      <navLabel>
+        <text>第六十九章</text>
+      </navLabel>
+      <content src="content_split_087.xhtml"/>
+    </navPoint>
+    <navPoint id="1e56f428-aff5-4b2b-b03c-9f0de6e0e399" playOrder="88">
+      <navLabel>
+        <text>第七十章</text>
+      </navLabel>
+      <content src="content_split_088.xhtml"/>
+    </navPoint>
+    <navPoint id="24846047-ab2e-4cc8-bdd0-3ba3bdfb9d77" playOrder="89">
+      <navLabel>
+        <text>第七十一章</text>
+      </navLabel>
+      <content src="content_split_089.xhtml"/>
+    </navPoint>
+    <navPoint id="d88941c5-be59-41ff-b171-5b0cf521b511" playOrder="90">
+      <navLabel>
+        <text>第十五部　地下组织</text>
+      </navLabel>
+      <content src="content_split_090.xhtml"/>
+    </navPoint>
+    <navPoint id="c38a6900-1bf5-4aad-8685-7ac53726919d" playOrder="91">
+      <navLabel>
+        <text>第七十二章</text>
+      </navLabel>
+      <content src="content_split_091.xhtml"/>
+    </navPoint>
+    <navPoint id="4aff6acf-cb38-4637-a353-aa7804936e31" playOrder="92">
+      <navLabel>
+        <text>第七十三章</text>
+      </navLabel>
+      <content src="content_split_092.xhtml"/>
+    </navPoint>
+    <navPoint id="f127d339-19da-407b-a359-8e7e4a163d89" playOrder="93">
+      <navLabel>
+        <text>第七十四章</text>
+      </navLabel>
+      <content src="content_split_093.xhtml"/>
+    </navPoint>
+    <navPoint id="7d747094-fb03-48fe-a345-01c96f1a206a" playOrder="94">
+      <navLabel>
+        <text>第七十五章</text>
+      </navLabel>
+      <content src="content_split_094.xhtml"/>
+    </navPoint>
+    <navPoint id="b87d2c1f-96f0-4f9a-a84f-c8e4d5e5526b" playOrder="95">
+      <navLabel>
+        <text>第七十六章</text>
+      </navLabel>
+      <content src="content_split_095.xhtml"/>
+    </navPoint>
+    <navPoint id="cd0a9e9b-4af3-4713-8290-bddb2f0bd962" playOrder="96">
+      <navLabel>
+        <text>第十六部　警官</text>
+      </navLabel>
+      <content src="content_split_096.xhtml"/>
+    </navPoint>
+    <navPoint id="75dc0753-f7cd-4b03-866f-2f14894075ea" playOrder="97">
+      <navLabel>
+        <text>第七十七章</text>
+      </navLabel>
+      <content src="content_split_097.xhtml"/>
+    </navPoint>
+    <navPoint id="ffeb814b-8008-4bf7-8f0b-0fa8af64bf6c" playOrder="98">
+      <navLabel>
+        <text>第七十八章</text>
+      </navLabel>
+      <content src="content_split_098.xhtml"/>
+    </navPoint>
+    <navPoint id="9a197cb1-d548-4502-b8c4-18c5f3e3b492" playOrder="99">
+      <navLabel>
+        <text>第七十九章</text>
+      </navLabel>
+      <content src="content_split_099.xhtml"/>
+    </navPoint>
+    <navPoint id="c0d250a4-d964-41b8-be86-82576bc88498" playOrder="100">
+      <navLabel>
+        <text>第八十章</text>
+      </navLabel>
+      <content src="content_split_100.xhtml"/>
+    </navPoint>
+    <navPoint id="903b4e72-ae5f-4911-8dfc-4115efb46c52" playOrder="101">
+      <navLabel>
+        <text>第八十一章</text>
+      </navLabel>
+      <content src="content_split_101.xhtml"/>
+    </navPoint>
+    <navPoint id="a63860c2-60b3-4d79-b874-d89d413443b0" playOrder="102">
+      <navLabel>
+        <text>第十七部　卫荷</text>
+      </navLabel>
+      <content src="content_split_102.xhtml"/>
+    </navPoint>
+    <navPoint id="96ef4e76-c317-4927-942f-bf3452f22cfe" playOrder="103">
+      <navLabel>
+        <text>第八十二章</text>
+      </navLabel>
+      <content src="content_split_103.xhtml"/>
+    </navPoint>
+    <navPoint id="b4595843-4e33-4873-be61-a1a646e2feba" playOrder="104">
+      <navLabel>
+        <text>第八十三章</text>
+      </navLabel>
+      <content src="content_split_104.xhtml"/>
+    </navPoint>
+    <navPoint id="36e2c924-2e69-47bd-b252-cfb0a3eb7c5c" playOrder="105">
+      <navLabel>
+        <text>第八十四章</text>
+      </navLabel>
+      <content src="content_split_105.xhtml"/>
+    </navPoint>
+    <navPoint id="ae9181dd-b8c3-49f4-b4b4-0ea1318e2a56" playOrder="106">
+      <navLabel>
+        <text>第八十五章</text>
+      </navLabel>
+      <content src="content_split_106.xhtml"/>
+    </navPoint>
+    <navPoint id="7d927fd5-e11a-451d-811b-947d2822bc94" playOrder="107">
+      <navLabel>
+        <text>第八十六章</text>
+      </navLabel>
+      <content src="content_split_107.xhtml"/>
+    </navPoint>
+    <navPoint id="c9efd9b2-9e76-4c62-9ffd-4fba13dddf46" playOrder="108">
+      <navLabel>
+        <text>第十八部　颠覆</text>
+      </navLabel>
+      <content src="content_split_108.xhtml"/>
+    </navPoint>
+    <navPoint id="627194d9-0df3-4dea-8a81-da5a3bfc8c78" playOrder="109">
+      <navLabel>
+        <text>第八十七章</text>
+      </navLabel>
+      <content src="content_split_109.xhtml"/>
+    </navPoint>
+    <navPoint id="bac58d60-3f64-4b57-ad90-7e87f3cf762e" playOrder="110">
+      <navLabel>
+        <text>第八十八章</text>
+      </navLabel>
+      <content src="content_split_110.xhtml"/>
+    </navPoint>
+    <navPoint id="2dac313a-e849-4624-aab6-8a0be7144c9a" playOrder="111">
+      <navLabel>
+        <text>第八十九章</text>
+      </navLabel>
+      <content src="content_split_111.xhtml"/>
+    </navPoint>
+    <navPoint id="590b6856-cf10-4eb5-b072-6ba8dda932ff" playOrder="112">
+      <navLabel>
+        <text>第九十章</text>
+      </navLabel>
+      <content src="content_split_112.xhtml"/>
+    </navPoint>
+    <navPoint id="0df9f585-24ef-4e0a-bf74-22ec033fb8b7" playOrder="113">
+      <navLabel>
+        <text>第十九部　铎丝</text>
+      </navLabel>
+      <content src="content_split_113.xhtml"/>
+    </navPoint>
+    <navPoint id="3b9857ff-5da7-479a-adc3-44da03d60dac" playOrder="114">
+      <navLabel>
+        <text>第九十一章</text>
+      </navLabel>
+      <content src="content_split_114.xhtml"/>
+    </navPoint>
+    <navPoint id="096e2a7b-9a9e-474d-8577-cd934d2c48e0" playOrder="115">
+      <navLabel>
+        <text>第九十二章</text>
+      </navLabel>
+      <content src="content_split_115.xhtml"/>
+    </navPoint>
+    <navPoint id="8645a1ef-9857-44e0-95d5-42b8a77a805e" playOrder="116">
+      <navLabel>
+        <text>第九十三章</text>
+      </navLabel>
+      <content src="content_split_116.xhtml"/>
+    </navPoint>
+    <navPoint id="60d6b396-8302-4f35-b4d5-f7bc28de64a0" playOrder="117">
+      <navLabel>
+        <text>第九十四章</text>
+      </navLabel>
+      <content src="content_split_117.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

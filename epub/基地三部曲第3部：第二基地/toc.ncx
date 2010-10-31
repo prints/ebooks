@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="72ed17bf-d87b-4b57-8510-c8bebb8ecab2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地三部曲第3部：第二基地</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="e5d0d25e-0a9a-4b08-a82c-8eba967f2ea0" playOrder="0">
+      <navLabel>
+        <text>第二基地</text>
+      </navLabel>
+      <content src="content_split_000.xhtml#calibre_toc_1"/>
+    </navPoint>
+    <navPoint id="a937b6e4-4cc2-47f7-8b95-d857264e2e11" playOrder="1">
+      <navLabel>
+        <text>作者：艾萨克·阿西莫夫</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="8b4bdf57-f7d8-442e-830c-e877bedfd38e" playOrder="2">
+      <navLabel>
+        <text>序幕</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="44877422-3b6c-462e-96ba-54244b5b2ec5" playOrder="3">
+      <navLabel>
+        <text>第一部　骡的寻找</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="43d1c26b-b10e-41f5-9e0f-10859ad6d6ea" playOrder="4">
+      <navLabel>
+        <text>第一章　二人与骡</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="17b3d373-0a30-48d2-9f04-db3255af5a1c" playOrder="5">
+      <navLabel>
+        <text>第二章　二人无骡</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="ac2cbe9c-90b2-4b97-b317-9dd11089b267" playOrder="6">
+      <navLabel>
+        <text>第三章　二人与农夫</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="6aaa2a2a-1c42-40ef-a0b6-4401df9c87ab" playOrder="7">
+      <navLabel>
+        <text>第四章　二人与长老</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="1696f777-360e-4898-bdb2-d3e8924ae2c9" playOrder="8">
+      <navLabel>
+        <text>第五章　一人与骡</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="f6454ded-d668-46ff-8746-d71fda6990b9" playOrder="9">
+      <navLabel>
+        <text>第六章　一人、骡与第三者</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="a8c57379-c580-4139-9254-b30707927051" playOrder="10">
+      <navLabel>
+        <text>第二部　基地的寻找</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="d3f86e1a-3c92-4655-ada7-f011ca26fef1" playOrder="11">
+      <navLabel>
+        <text>第一章　艾嘉蒂娅</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="35ec8035-9372-4a4e-b5d0-16d380f4cdd9" playOrder="12">
+      <navLabel>
+        <text>第二章　谢顿计划</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="5bb016dc-55b8-4f24-8fb2-fb0a3db156e4" playOrder="13">
+      <navLabel>
+        <text>第三章　同谋</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="e904de17-531c-4283-aceb-d047db1da584" playOrder="14">
+      <navLabel>
+        <text>第四章　迫在眉睫</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="65ece99d-3241-4a55-9221-609e4bea8a32" playOrder="15">
+      <navLabel>
+        <text>第五章　偷渡客</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="319b7e9d-a2b7-4d35-811d-ffa107fbcee4" playOrder="16">
+      <navLabel>
+        <text>第六章　统领</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="eb574f42-d30b-4f07-8291-5df23a52e960" playOrder="17">
+      <navLabel>
+        <text>第七章　贵妇</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="9ece868c-d99a-42a0-abe7-91892cd29090" playOrder="18">
+      <navLabel>
+        <text>第八章　忧心如焚</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="29d25c1a-53c8-4dc5-b3d6-a3bdf9c14a9c" playOrder="19">
+      <navLabel>
+        <text>第九章　天罗地网</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="73e89be4-1f85-4cc0-9c3a-e5c7de4224e7" playOrder="20">
+      <navLabel>
+        <text>第十章　战端</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="fcdcd14c-afe9-4f86-8795-2ec3c3d6e899" playOrder="21">
+      <navLabel>
+        <text>第十一章　战争</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="26599502-074c-48f9-8d82-1ffe9f6856b7" playOrder="22">
+      <navLabel>
+        <text>第十二章　幽寂世界</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="46e74ea6-29d1-4e3d-aaa5-432aa1adc919" playOrder="23">
+      <navLabel>
+        <text>第十三章　终战</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="a3ee65b8-f5d2-4dbc-bbf6-25fce02585ca" playOrder="24">
+      <navLabel>
+        <text>第十四章　“我知道……”</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="a4d6423b-0a23-40c8-8cee-e101d3a1b92e" playOrder="25">
+      <navLabel>
+        <text>第十五章　满意的答案</text>
+      </navLabel>
+      <content src="content_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="348b8a34-5a9c-47df-8837-896d791668c3" playOrder="26">
+      <navLabel>
+        <text>第十六章　真正的答案</text>
+      </navLabel>
+      <content src="content_split_026.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

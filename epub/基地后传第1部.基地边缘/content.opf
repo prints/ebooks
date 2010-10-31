@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>xiaoranzzz</dc:publisher>
+    <dc:language>zh</dc:language>
+    <dc:creator opf:role="aut">阿西莫夫</dc:creator>
+    <meta name="calibre:timestamp" content="2010-06-07T16:40:48.605055+00:00"/>
+    <dc:title>基地后传第1部.基地边缘</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-06-08T00:40:45+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">0804d248-d4ba-44be-b8b9-559fe5eab2b4</dc:identifier>
+    <dc:subject>fiction</dc:subject>
+    <dc:subject>sci-fiction</dc:subject>
+    <dc:subject>xiaoranzzz</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="content_split_000.xhtml" id="html13" media-type="application/xhtml+xml"/>
+    <item href="content_split_001.xhtml" id="html12" media-type="application/xhtml+xml"/>
+    <item href="content_split_002.xhtml" id="html11" media-type="application/xhtml+xml"/>
+    <item href="content_split_003.xhtml" id="html10" media-type="application/xhtml+xml"/>
+    <item href="content_split_004.xhtml" id="html9" media-type="application/xhtml+xml"/>
+    <item href="content_split_005.xhtml" id="html8" media-type="application/xhtml+xml"/>
+    <item href="content_split_006.xhtml" id="html7" media-type="application/xhtml+xml"/>
+    <item href="content_split_007.xhtml" id="html6" media-type="application/xhtml+xml"/>
+    <item href="content_split_008.xhtml" id="html5" media-type="application/xhtml+xml"/>
+    <item href="content_split_009.xhtml" id="html4" media-type="application/xhtml+xml"/>
+    <item href="content_split_010.xhtml" id="html3" media-type="application/xhtml+xml"/>
+    <item href="content_split_011.xhtml" id="html2" media-type="application/xhtml+xml"/>
+    <item href="content_split_012.xhtml" id="html1" media-type="application/xhtml+xml"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,2403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="6b765787-28d8-4683-ac70-83d2a2069749" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>科幻世界银河奖获奖作品集</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="1fb8d271-0958-429d-8bc2-5726c73e448f" playOrder="1">
+      <navLabel>
+        <text>失踪的航线</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="f3e9d421-8657-4a53-91e1-aa2fe5c800b8" playOrder="2">
+      <navLabel>
+        <text>白痴</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="280e7777-4cda-4434-8158-7587eb2f5c47" playOrder="3">
+      <navLabel>
+        <text>在时间的铅幕后面</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="4f1c9a51-4885-4c75-a111-71cf31267a1a" playOrder="4">
+      <navLabel>
+        <text>天道</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="5c050cec-6213-4af8-a77c-93b58b150c36" playOrder="5">
+      <navLabel>
+        <text>难圆玫瑰梦</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+      <navPoint id="d1cce84f-ed0d-4848-8cd2-5bc01c30c03c" playOrder="6">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_173"/>
+      </navPoint>
+      <navPoint id="53cc4d19-1e10-4810-8928-0856972e2168" playOrder="7">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_174"/>
+      </navPoint>
+      <navPoint id="5dd805fb-6589-4978-84f1-8e2c57acd5ff" playOrder="8">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_175"/>
+      </navPoint>
+      <navPoint id="cde713f7-8d85-4a74-a0a4-389d4a344ef5" playOrder="9">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_176"/>
+      </navPoint>
+      <navPoint id="826d44f3-3a6c-4772-ba51-a4b50fbe566b" playOrder="10">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_005.xhtml#calibre_toc_177"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ba8c30e9-82f3-4db9-bdbe-6e00a82b23e0" playOrder="11">
+      <navLabel>
+        <text>一个戊戌老人的故事</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+      <navPoint id="7f1ff7e1-3cd4-42f9-8930-93d82bbdf2d4" playOrder="12">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_178"/>
+      </navPoint>
+      <navPoint id="50e0e294-ed8e-4411-8501-f1c5ef6c9664" playOrder="13">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_179"/>
+      </navPoint>
+      <navPoint id="4629a72f-09d4-48cc-a3b7-43e2dfda577e" playOrder="14">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_180"/>
+      </navPoint>
+      <navPoint id="db61d0ec-4c4a-4c16-8935-2fe945000028" playOrder="15">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_181"/>
+      </navPoint>
+      <navPoint id="55008e91-8183-4af9-a6c9-7c338f6f62ca" playOrder="16">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_182"/>
+      </navPoint>
+      <navPoint id="c475bd75-e7dd-4edc-865a-4ce9d503dfdb" playOrder="17">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_183"/>
+      </navPoint>
+      <navPoint id="ae446584-9cee-444e-89f0-806ca7aeb588" playOrder="18">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_184"/>
+      </navPoint>
+      <navPoint id="2183e99f-e5ff-4b39-b7a3-39ce84ffad8e" playOrder="19">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_006.xhtml#calibre_toc_185"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="87bcd8d2-3b03-4d57-bea5-8e600558d32d" playOrder="20">
+      <navLabel>
+        <text>太空修道院</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+      <navPoint id="f99274d6-3589-4d43-93de-98ea53624703" playOrder="21">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_186"/>
+      </navPoint>
+      <navPoint id="565d9dee-4588-429c-acf7-46f0d5c6b9a8" playOrder="22">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_187"/>
+      </navPoint>
+      <navPoint id="4750b272-becc-4e50-978e-0af5185474c9" playOrder="23">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_188"/>
+      </navPoint>
+      <navPoint id="eb96cff4-9ef3-4549-ad8d-070f655bd452" playOrder="24">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_189"/>
+      </navPoint>
+      <navPoint id="2ef8232c-3c6b-496e-a288-d7f4200b0272" playOrder="25">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_190"/>
+      </navPoint>
+      <navPoint id="f31e9ebe-24cb-4bb9-b2d0-e4fe83a27f45" playOrder="26">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_191"/>
+      </navPoint>
+      <navPoint id="e967f8cd-c533-480b-ba47-275312d2d3a1" playOrder="27">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_192"/>
+      </navPoint>
+      <navPoint id="a22901cc-a981-40ad-afa9-55042b78df98" playOrder="28">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_193"/>
+      </navPoint>
+      <navPoint id="9cc592e5-9f2e-470a-8741-d7596fadcd52" playOrder="29">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_194"/>
+      </navPoint>
+      <navPoint id="1bd4b639-5eb7-4f19-a599-7ca25b2d6d65" playOrder="30">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_195"/>
+      </navPoint>
+      <navPoint id="1e1bb003-af19-44a8-af67-cb0bc59ad86a" playOrder="31">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_196"/>
+      </navPoint>
+      <navPoint id="24cbc513-aecc-4f0e-a597-b2c71ef5dbf1" playOrder="32">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_197"/>
+      </navPoint>
+      <navPoint id="ce8b7489-a9f9-4767-ae15-b237a20a60e1" playOrder="33">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_198"/>
+      </navPoint>
+      <navPoint id="6cbdcf21-8411-42c9-80b9-2bfe0ec192a8" playOrder="34">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_199"/>
+      </navPoint>
+      <navPoint id="46652de0-45ce-4d5e-b388-14469c766db9" playOrder="35">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_200"/>
+      </navPoint>
+      <navPoint id="fb0c69ee-cc00-489b-96ca-bcf6a0174f52" playOrder="36">
+        <navLabel>
+          <text>十六</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_201"/>
+      </navPoint>
+      <navPoint id="d1e6f031-de19-40d1-9f8c-85addcd8b45a" playOrder="37">
+        <navLabel>
+          <text>十七</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_202"/>
+      </navPoint>
+      <navPoint id="967c57e3-e196-4b10-8272-47e8deab4bd5" playOrder="38">
+        <navLabel>
+          <text>十八</text>
+        </navLabel>
+        <content src="content_split_007.xhtml#calibre_toc_203"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="3f026503-60c4-4ae7-9d3f-7e2800042807" playOrder="39">
+      <navLabel>
+        <text>女娲恋</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+      <navPoint id="2ba6f360-7b7a-4729-80d9-0653b8782fce" playOrder="40">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_008.xhtml#calibre_toc_204"/>
+      </navPoint>
+      <navPoint id="dd4f58fd-9436-496d-84d1-ad587dd28540" playOrder="41">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_008.xhtml#calibre_toc_205"/>
+      </navPoint>
+      <navPoint id="54fe02b8-18aa-47f4-b122-91e65cc352c1" playOrder="42">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_008.xhtml#calibre_toc_206"/>
+      </navPoint>
+      <navPoint id="d7657af8-b83f-4214-93da-3041943bc304" playOrder="43">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_008.xhtml#calibre_toc_207"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="7bf6b000-d341-4f61-b867-ae1c9ed9558d" playOrder="44">
+      <navLabel>
+        <text>故土难离</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="8c7a4e6e-afaf-4e52-9e6f-29dc935b4b0b" playOrder="45">
+      <navLabel>
+        <text>火山口上的大脑基地</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="60fd6f62-91dc-4520-88eb-2f072c022445" playOrder="46">
+      <navLabel>
+        <text>生死第六天</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="69241fd1-83a9-4fef-b6c4-dd12cf195db5" playOrder="47">
+      <navLabel>
+        <text>证据</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="1cf53db9-c00c-4cf9-bfca-f2702af55d5c" playOrder="48">
+      <navLabel>
+        <text>雾中山传奇</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="c63cf5da-484f-425a-91db-1c129e4b3465" playOrder="49">
+      <navLabel>
+        <text>光恋</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="8de804b2-3278-46d5-8b19-6ca5261f4855" playOrder="50">
+      <navLabel>
+        <text>坠入爱河的电脑</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="3b679b4d-02dc-44cc-9634-22d0ee3c58a8" playOrder="51">
+      <navLabel>
+        <text>梦幻世界</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="6f0c6ecb-8c27-4e93-9aa3-dbcbb380d5d1" playOrder="52">
+      <navLabel>
+        <text>波儿</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="b52c2d64-e0c0-47b5-b71f-f61f82ee6deb" playOrder="53">
+      <navLabel>
+        <text>等您一千年</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+      <navPoint id="a83b99ba-5212-42e2-99b0-c144b0e554e9" playOrder="54">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_208"/>
+      </navPoint>
+      <navPoint id="960e890b-77b4-40ab-9691-8fb4827aff66" playOrder="55">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_209"/>
+      </navPoint>
+      <navPoint id="a8e8f20e-387b-44e4-ae6d-30d6cdb0820b" playOrder="56">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_210"/>
+      </navPoint>
+      <navPoint id="8efc5902-8248-4812-97d9-975faf8c92ff" playOrder="57">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_211"/>
+      </navPoint>
+      <navPoint id="84aa1f4b-27eb-4c1a-841a-4f653257a9f0" playOrder="58">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_212"/>
+      </navPoint>
+      <navPoint id="a75f796a-deeb-4ffa-b1ae-8d3123c858da" playOrder="59">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_213"/>
+      </navPoint>
+      <navPoint id="79853af1-9e8c-4bac-9a0a-0a503e5f29d7" playOrder="60">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_214"/>
+      </navPoint>
+      <navPoint id="32718d64-d3ab-4361-b7ed-14710ed9cbc8" playOrder="61">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_215"/>
+      </navPoint>
+      <navPoint id="0fb6badb-8d4d-4832-9f8c-74a73b69e63f" playOrder="62">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_216"/>
+      </navPoint>
+      <navPoint id="67fca247-cb9b-4257-8f27-a1e8419ea6a3" playOrder="63">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_217"/>
+      </navPoint>
+      <navPoint id="b7e11da0-ccc4-4d0d-9bbe-d4377465dfd9" playOrder="64">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_218"/>
+      </navPoint>
+      <navPoint id="a0d71dff-5923-40fc-aea7-6b2a6d90ceb5" playOrder="65">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_219"/>
+      </navPoint>
+      <navPoint id="da5cf516-4122-42af-a6f3-da2d01caa7c6" playOrder="66">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_220"/>
+      </navPoint>
+      <navPoint id="4546a2e9-340c-4744-b6e5-28e5049cd620" playOrder="67">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_221"/>
+      </navPoint>
+      <navPoint id="b7c08014-bf95-45ce-8b70-76ea70247f50" playOrder="68">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_222"/>
+      </navPoint>
+      <navPoint id="25b618f9-5660-458a-bb2d-36fa35442158" playOrder="69">
+        <navLabel>
+          <text>十六</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_223"/>
+      </navPoint>
+      <navPoint id="b2c612d7-2f11-4330-9e73-c5696c4f6949" playOrder="70">
+        <navLabel>
+          <text>十七</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_224"/>
+      </navPoint>
+      <navPoint id="b83936db-ee34-449d-80d0-8ddebe4b3212" playOrder="71">
+        <navLabel>
+          <text>十八</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_225"/>
+      </navPoint>
+      <navPoint id="c5135143-00f2-4346-9071-12c0ace5a868" playOrder="72">
+        <navLabel>
+          <text>十九</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_226"/>
+      </navPoint>
+      <navPoint id="645e4343-d876-4052-b5ba-16ff6278e803" playOrder="73">
+        <navLabel>
+          <text>二十</text>
+        </navLabel>
+        <content src="content_split_018.xhtml#calibre_toc_227"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6e4e4a52-5188-4399-909c-aef25d775a1f" playOrder="74">
+      <navLabel>
+        <text>行星巴士</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="4eb8e230-efea-4060-95d4-999c58ed3b55" playOrder="75">
+      <navLabel>
+        <text>遗物钓“鲨”</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="a6522bae-f84a-4417-ace4-4e2457a71084" playOrder="76">
+      <navLabel>
+        <text>亚当回归</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="93eea0c8-61c4-4e0b-b8b9-95f6563a6ec3" playOrder="77">
+      <navLabel>
+        <text>戴茜救我</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+      <navPoint id="6fbafb9f-1517-491f-98f5-bd898ef8ecb1" playOrder="78">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_228"/>
+      </navPoint>
+      <navPoint id="60ed72f4-50ac-4001-b40f-37f939d9502a" playOrder="79">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_229"/>
+      </navPoint>
+      <navPoint id="ca734756-df05-4778-ba7f-0b4bc5ece099" playOrder="80">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_230"/>
+      </navPoint>
+      <navPoint id="af331333-a397-4f96-88df-1e30d025989f" playOrder="81">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_231"/>
+      </navPoint>
+      <navPoint id="cb69fc2d-a210-4888-b291-1f1c98653263" playOrder="82">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_232"/>
+      </navPoint>
+      <navPoint id="c86ccb5b-5ed3-4597-8542-ac608c5a9cd0" playOrder="83">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_022.xhtml#calibre_toc_233"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f45d5eb7-24c3-42b2-a457-83188c0f9499" playOrder="84">
+      <navLabel>
+        <text>无际禅师之谜</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+    <navPoint id="acb25287-1d37-46bc-b176-ee9ae6850080" playOrder="85">
+      <navLabel>
+        <text>电脑魔王</text>
+      </navLabel>
+      <content src="content_split_024.xhtml"/>
+    </navPoint>
+    <navPoint id="cecb6dca-59ea-4afa-a7a4-994876736e1a" playOrder="86">
+      <navLabel>
+        <text>雪陆星</text>
+      </navLabel>
+      <content src="content_split_025.xhtml"/>
+    </navPoint>
+    <navPoint id="a9cf747a-3223-428a-8f1f-1332816e339a" playOrder="87">
+      <navLabel>
+        <text>丘比特的谬误</text>
+      </navLabel>
+      <content src="content_split_026.xhtml"/>
+    </navPoint>
+    <navPoint id="9aa1346a-998b-4f53-be86-599cf635ff6c" playOrder="88">
+      <navLabel>
+        <text>圣诞礼物</text>
+      </navLabel>
+      <content src="content_split_027.xhtml"/>
+    </navPoint>
+    <navPoint id="f26565ed-4d69-4e0a-9f6a-d37c2587d91f" playOrder="89">
+      <navLabel>
+        <text>天火</text>
+      </navLabel>
+      <content src="content_split_028.xhtml"/>
+    </navPoint>
+    <navPoint id="77b8236b-8bdd-43f8-aee3-58633fc2e839" playOrder="90">
+      <navLabel>
+        <text>失去记忆的人</text>
+      </navLabel>
+      <content src="content_split_029.xhtml"/>
+    </navPoint>
+    <navPoint id="7dd247e1-5ed9-492f-9ab8-3e8b315bb660" playOrder="91">
+      <navLabel>
+        <text>平行</text>
+      </navLabel>
+      <content src="content_split_030.xhtml"/>
+    </navPoint>
+    <navPoint id="f07ab0f3-6e3b-4fd0-887a-96211618e3fa" playOrder="92">
+      <navLabel>
+        <text>撞击</text>
+      </navLabel>
+      <content src="content_split_031.xhtml"/>
+    </navPoint>
+    <navPoint id="7eaf9d11-6b7e-4e7c-a711-4291dfa6e957" playOrder="93">
+      <navLabel>
+        <text>智慧病毒</text>
+      </navLabel>
+      <content src="content_split_032.xhtml"/>
+    </navPoint>
+    <navPoint id="42eeeeb3-dd3e-43f0-aabd-6737abdb0a24" playOrder="94">
+      <navLabel>
+        <text>朝圣</text>
+      </navLabel>
+      <content src="content_split_033.xhtml"/>
+    </navPoint>
+    <navPoint id="e2b6d9dc-49b9-40da-8f37-06bc182c225e" playOrder="95">
+      <navLabel>
+        <text>空中袭击者</text>
+      </navLabel>
+      <content src="content_split_034.xhtml"/>
+    </navPoint>
+    <navPoint id="45dd098c-0e93-49df-b8a4-3a04e254566d" playOrder="96">
+      <navLabel>
+        <text>魔瓶</text>
+      </navLabel>
+      <content src="content_split_035.xhtml"/>
+    </navPoint>
+    <navPoint id="f41bd2fd-d743-47e3-ab84-e9425733f68f" playOrder="97">
+      <navLabel>
+        <text>信使</text>
+      </navLabel>
+      <content src="content_split_036.xhtml"/>
+    </navPoint>
+    <navPoint id="aed54eb9-ade9-4a0f-a12c-b44ed3fb1d84" playOrder="98">
+      <navLabel>
+        <text>太空抢险</text>
+      </navLabel>
+      <content src="content_split_037.xhtml"/>
+    </navPoint>
+    <navPoint id="f442fc36-1c18-4874-8678-abfc5b351ceb" playOrder="99">
+      <navLabel>
+        <text>序</text>
+      </navLabel>
+      <content src="content_split_038.xhtml"/>
+    </navPoint>
+    <navPoint id="df436efc-b8d1-4e2c-a5a4-7f1e6dbbf115" playOrder="100">
+      <navLabel>
+        <text>第一章</text>
+      </navLabel>
+      <content src="content_split_039.xhtml"/>
+    </navPoint>
+    <navPoint id="d4645251-6558-403b-8efe-b420d0453383" playOrder="101">
+      <navLabel>
+        <text>第二章</text>
+      </navLabel>
+      <content src="content_split_040.xhtml"/>
+    </navPoint>
+    <navPoint id="592ed805-1973-4eda-9ad3-8cf25e453149" playOrder="102">
+      <navLabel>
+        <text>第三章</text>
+      </navLabel>
+      <content src="content_split_041.xhtml"/>
+    </navPoint>
+    <navPoint id="21ac8967-2d87-4dce-ba0d-b3317e419277" playOrder="103">
+      <navLabel>
+        <text>第四章“自由”号空间站。</text>
+      </navLabel>
+      <content src="content_split_042.xhtml"/>
+    </navPoint>
+    <navPoint id="c74c0a7f-1257-4061-b8a3-6551a10a2a73" playOrder="104">
+      <navLabel>
+        <text>寂寞长天</text>
+      </navLabel>
+      <content src="content_split_043.xhtml"/>
+    </navPoint>
+    <navPoint id="33b30086-e999-4fd5-a38d-1f9186dbea95" playOrder="105">
+      <navLabel>
+        <text>幽灵列车</text>
+      </navLabel>
+      <content src="content_split_044.xhtml"/>
+    </navPoint>
+    <navPoint id="9b1cfab7-faba-4f03-8873-413c7b7e2925" playOrder="106">
+      <navLabel>
+        <text>没有答案的航程</text>
+      </navLabel>
+      <content src="content_split_045.xhtml"/>
+    </navPoint>
+    <navPoint id="81e032a6-f8b1-4e6f-8c82-5a4e78cf77ea" playOrder="107">
+      <navLabel>
+        <text>沧桑</text>
+      </navLabel>
+      <content src="content_split_046.xhtml"/>
+    </navPoint>
+    <navPoint id="9ce66b2f-ba15-4ea5-8079-3085b395ffe3" playOrder="108">
+      <navLabel>
+        <text>泪洒鄱阳湖</text>
+      </navLabel>
+      <content src="content_split_047.xhtml"/>
+    </navPoint>
+    <navPoint id="d8d84182-91ad-4bef-8f2c-ea3e76d868b1" playOrder="109">
+      <navLabel>
+        <text>生命之歌</text>
+      </navLabel>
+      <content src="content_split_048.xhtml"/>
+    </navPoint>
+    <navPoint id="0bebb3ee-c0c7-4444-981b-70bf35923cf3" playOrder="110">
+      <navLabel>
+        <text>超脑</text>
+      </navLabel>
+      <content src="content_split_049.xhtml"/>
+    </navPoint>
+    <navPoint id="c19f0b4b-2b5e-4740-bd20-50d12d78128d" playOrder="111">
+      <navLabel>
+        <text>远古的星辰</text>
+      </navLabel>
+      <content src="content_split_050.xhtml"/>
+    </navPoint>
+    <navPoint id="e11a0e24-dc4c-41e0-a15a-74aaffe98494" playOrder="112">
+      <navLabel>
+        <text>为了凋谢的花</text>
+      </navLabel>
+      <content src="content_split_051.xhtml"/>
+    </navPoint>
+    <navPoint id="94454f32-7860-49be-8323-c962a146dc05" playOrder="113">
+      <navLabel>
+        <text>伏羲</text>
+      </navLabel>
+      <content src="content_split_052.xhtml"/>
+    </navPoint>
+    <navPoint id="d62cbb24-7f5c-47c4-b7b6-df1bf1bd1a60" playOrder="114">
+      <navLabel>
+        <text>克隆之城</text>
+      </navLabel>
+      <content src="content_split_053.xhtml"/>
+      <navPoint id="862595e9-e877-4e11-ac18-00c98a1bf1df" playOrder="115">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_053.xhtml#calibre_toc_234"/>
+      </navPoint>
+      <navPoint id="ad44fd55-4502-45bd-8cef-835faa3a6ab6" playOrder="116">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_053.xhtml#calibre_toc_235"/>
+      </navPoint>
+      <navPoint id="98329b42-491a-4c37-947f-2c7f52fe637e" playOrder="117">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_053.xhtml#calibre_toc_236"/>
+      </navPoint>
+      <navPoint id="2763261d-4297-4130-9efd-c147cb50c857" playOrder="118">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_053.xhtml#calibre_toc_237"/>
+      </navPoint>
+      <navPoint id="51ad24b5-7d69-4de1-8202-56f224ae8596" playOrder="119">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_053.xhtml#calibre_toc_238"/>
+      </navPoint>
+      <navPoint id="6dc211fd-c664-4ccf-b19d-f0867d35afac" playOrder="120">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_053.xhtml#calibre_toc_239"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="941fda8f-0ed0-4570-a2b5-df00d0d8543f" playOrder="121">
+      <navLabel>
+        <text>全息传真机</text>
+      </navLabel>
+      <content src="content_split_054.xhtml"/>
+    </navPoint>
+    <navPoint id="99ba4872-c25e-49ae-b569-866ac816f404" playOrder="122">
+      <navLabel>
+        <text>决斗在网络</text>
+      </navLabel>
+      <content src="content_split_055.xhtml"/>
+    </navPoint>
+    <navPoint id="7d6d3588-989a-4d4c-a8a9-3207f1b289fe" playOrder="123">
+      <navLabel>
+        <text>我要活下去</text>
+      </navLabel>
+      <content src="content_split_056.xhtml"/>
+    </navPoint>
+    <navPoint id="d3d8bb0e-aacd-4d04-94b6-662eed0daff2" playOrder="124">
+      <navLabel>
+        <text>梦境</text>
+      </navLabel>
+      <content src="content_split_057.xhtml"/>
+    </navPoint>
+    <navPoint id="33ad56b3-58d8-4b66-ae2c-bf56909e3b74" playOrder="125">
+      <navLabel>
+        <text>火星尘暴</text>
+      </navLabel>
+      <content src="content_split_058.xhtml"/>
+    </navPoint>
+    <navPoint id="28d96c5b-5b0b-4323-a524-458df64a4659" playOrder="126">
+      <navLabel>
+        <text>网络帝国</text>
+      </navLabel>
+      <content src="content_split_059.xhtml"/>
+    </navPoint>
+    <navPoint id="5e5214ed-9c66-4585-b39d-7331fcd938dd" playOrder="127">
+      <navLabel>
+        <text>西奈噩梦</text>
+      </navLabel>
+      <content src="content_split_060.xhtml"/>
+    </navPoint>
+    <navPoint id="28e121fd-9d5b-4c7b-a49e-457346f76d0e" playOrder="128">
+      <navLabel>
+        <text>一个老流浪汉的自述</text>
+      </navLabel>
+      <content src="content_split_061.xhtml"/>
+    </navPoint>
+    <navPoint id="c840110c-2e53-4da6-9556-68355c0c6968" playOrder="129">
+      <navLabel>
+        <text>七重外壳</text>
+      </navLabel>
+      <content src="content_split_062.xhtml"/>
+    </navPoint>
+    <navPoint id="f6bf08a5-be0c-46e6-ad93-1c180b05c20a" playOrder="130">
+      <navLabel>
+        <text>天骄</text>
+      </navLabel>
+      <content src="content_split_063.xhtml"/>
+      <navPoint id="fab8336d-294f-4d7c-91a1-61efd75ecd49" playOrder="131">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_240"/>
+      </navPoint>
+      <navPoint id="e7875a8d-2e35-4611-8bda-dd527495a05d" playOrder="132">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_241"/>
+      </navPoint>
+      <navPoint id="1e870e08-516d-4346-ba80-58c6a2795ab3" playOrder="133">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_242"/>
+      </navPoint>
+      <navPoint id="3968f410-10d4-4a43-8512-814227ed9f18" playOrder="134">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_243"/>
+      </navPoint>
+      <navPoint id="fbe5bbcb-d774-42d7-9414-69e6eca01e43" playOrder="135">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_244"/>
+      </navPoint>
+      <navPoint id="a076c658-2a2d-4173-a175-7c9d870d6503" playOrder="136">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_245"/>
+      </navPoint>
+      <navPoint id="8d39b6a8-634b-4005-bd52-b16688adbc79" playOrder="137">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_246"/>
+      </navPoint>
+      <navPoint id="4f50bff5-18ac-4f33-abe6-58bf32c2634a" playOrder="138">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_247"/>
+      </navPoint>
+      <navPoint id="48a0ffc8-82f4-4249-9514-2ccfb2f47baf" playOrder="139">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_248"/>
+      </navPoint>
+      <navPoint id="5547d0b3-12be-4e3c-b7dd-e0e408767f2a" playOrder="140">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_063.xhtml#calibre_toc_249"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="adf7af0a-2f77-476e-9f20-91906ecc3caa" playOrder="141">
+      <navLabel>
+        <text>桦树的眼睛</text>
+      </navLabel>
+      <content src="content_split_064.xhtml"/>
+    </navPoint>
+    <navPoint id="734a0462-2aaa-4393-9566-70c225d79167" playOrder="142">
+      <navLabel>
+        <text>毒蛇</text>
+      </navLabel>
+      <content src="content_split_065.xhtml"/>
+      <navPoint id="1cfc0ac0-073e-4349-8ecd-d96f39f97b5c" playOrder="143">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_065.xhtml#calibre_toc_250"/>
+      </navPoint>
+      <navPoint id="f41f36ec-83fb-4825-913c-c0bec10d7694" playOrder="144">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_065.xhtml#calibre_toc_251"/>
+      </navPoint>
+      <navPoint id="cdae0bb3-71c4-4c2b-a5fb-a85e8dc96f5b" playOrder="145">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_065.xhtml#calibre_toc_252"/>
+      </navPoint>
+      <navPoint id="73bf3b87-83e3-42dd-a607-b01335eb75ee" playOrder="146">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_065.xhtml#calibre_toc_253"/>
+      </navPoint>
+      <navPoint id="b86a8593-ffb8-4361-9b7c-22e2d7f47cb1" playOrder="147">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_065.xhtml#calibre_toc_254"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6711b9ae-7eeb-4eb8-b96f-99e6adac11b1" playOrder="148">
+      <navLabel>
+        <text>猫捉老鼠的游戏</text>
+      </navLabel>
+      <content src="content_split_066.xhtml"/>
+    </navPoint>
+    <navPoint id="a484821c-55e5-479f-9262-8e1baacd2f05" playOrder="149">
+      <navLabel>
+        <text>红舞鞋</text>
+      </navLabel>
+      <content src="content_split_067.xhtml"/>
+    </navPoint>
+    <navPoint id="6a294d76-62e2-4815-a4fc-0ffd1edd0e20" playOrder="150">
+      <navLabel>
+        <text>谁是亚当？</text>
+      </navLabel>
+      <content src="content_split_068.xhtml"/>
+    </navPoint>
+    <navPoint id="01df3252-0c4f-4707-97f5-c6f96afe820e" playOrder="151">
+      <navLabel>
+        <text>谁胜谁负</text>
+      </navLabel>
+      <content src="content_split_069.xhtml"/>
+    </navPoint>
+    <navPoint id="661fbc51-0abb-4576-9141-ff5bc285c62d" playOrder="152">
+      <navLabel>
+        <text>黑洞之吻</text>
+      </navLabel>
+      <content src="content_split_070.xhtml"/>
+    </navPoint>
+    <navPoint id="f2edb164-84f3-44f0-8d7f-98400596856a" playOrder="153">
+      <navLabel>
+        <text>MUD－－黑客事件</text>
+      </navLabel>
+      <content src="content_split_071.xhtml"/>
+    </navPoint>
+    <navPoint id="2dfe7994-265b-4383-b3e4-793d7123fe26" playOrder="154">
+      <navLabel>
+        <text>会合第十行星</text>
+      </navLabel>
+      <content src="content_split_072.xhtml"/>
+      <navPoint id="16128b2f-1974-4ca1-891e-5777b025422f" playOrder="155">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_255"/>
+      </navPoint>
+      <navPoint id="99f56ff6-58ac-4fe0-8ed5-28d7ad55ef79" playOrder="156">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_256"/>
+      </navPoint>
+      <navPoint id="0ba54154-ab78-450b-8794-caed34124c4a" playOrder="157">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_257"/>
+      </navPoint>
+      <navPoint id="010b1240-f93f-42e6-a4b9-f3ae16f4b2d7" playOrder="158">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_258"/>
+      </navPoint>
+      <navPoint id="aaf9bc7f-3bf5-45c0-b3ac-596d8b4c7a22" playOrder="159">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_259"/>
+      </navPoint>
+      <navPoint id="3cb31a12-42fd-4c15-8b07-8d00d30fbd72" playOrder="160">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_260"/>
+      </navPoint>
+      <navPoint id="6df27bde-c792-4241-a97b-dc31c001a039" playOrder="161">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_261"/>
+      </navPoint>
+      <navPoint id="632f0e8c-4d9d-4881-bbc6-b8c4a36fd24b" playOrder="162">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_262"/>
+      </navPoint>
+      <navPoint id="3497e5a5-0047-430d-b7ee-e01060d494e1" playOrder="163">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_263"/>
+      </navPoint>
+      <navPoint id="a8c1b39e-e0da-4d75-89ac-5e124d033c70" playOrder="164">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_072.xhtml#calibre_toc_264"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="3c3c1df3-a47d-480d-ad43-7eabe4117db1" playOrder="165">
+      <navLabel>
+        <text>偃师传说</text>
+      </navLabel>
+      <content src="content_split_073.xhtml"/>
+    </navPoint>
+    <navPoint id="0d2b5a39-9d31-415e-bbb6-dc4cb86251c2" playOrder="166">
+      <navLabel>
+        <text>时间的彼方</text>
+      </navLabel>
+      <content src="content_split_074.xhtml"/>
+    </navPoint>
+    <navPoint id="61dcbf2f-2632-4e0d-b273-3034c73c6fb5" playOrder="167">
+      <navLabel>
+        <text>猫的故事</text>
+      </navLabel>
+      <content src="content_split_075.xhtml"/>
+      <navPoint id="54bd90a1-2a81-4a22-ad93-54b8d5dbfacf" playOrder="168">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_265"/>
+      </navPoint>
+      <navPoint id="ca47c3ab-2ec4-4a49-a109-c350f5dc984d" playOrder="169">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_266"/>
+      </navPoint>
+      <navPoint id="c117401e-e5cb-4aab-9ab8-8567591570d5" playOrder="170">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_267"/>
+      </navPoint>
+      <navPoint id="ddd6eef3-31da-48e4-8014-2865de4327d6" playOrder="171">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_268"/>
+      </navPoint>
+      <navPoint id="f8b2d170-e500-43da-9376-b78dd8f738aa" playOrder="172">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_269"/>
+      </navPoint>
+      <navPoint id="1c443569-441c-416c-87a3-1afe7f677aff" playOrder="173">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_270"/>
+      </navPoint>
+      <navPoint id="7ef0ce22-c9b5-486d-bbad-4422d9d259bc" playOrder="174">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_271"/>
+      </navPoint>
+      <navPoint id="ee1ae855-67b8-491f-b89c-6404d7ab1afc" playOrder="175">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_272"/>
+      </navPoint>
+      <navPoint id="dd7a4cc8-9d99-46ea-9be9-abf7b9339d43" playOrder="176">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_273"/>
+      </navPoint>
+      <navPoint id="11f0521f-0b00-45fd-b319-53aa162b0e41" playOrder="177">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_274"/>
+      </navPoint>
+      <navPoint id="595e779d-484a-4c80-936e-eb20f65c4aaf" playOrder="178">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_275"/>
+      </navPoint>
+      <navPoint id="2b51b340-6e20-4317-86f4-a9bd884d51f0" playOrder="179">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_276"/>
+      </navPoint>
+      <navPoint id="3438520b-5c68-480a-a0e7-4a2e27aae6d4" playOrder="180">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_277"/>
+      </navPoint>
+      <navPoint id="38521cc5-1d89-43db-ba02-fa61c552ccf2" playOrder="181">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_278"/>
+      </navPoint>
+      <navPoint id="1044d768-f9ef-455d-8d24-d5d1884152f8" playOrder="182">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="content_split_075.xhtml#calibre_toc_279"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="1480478a-5feb-4298-a536-1c50b10feef5" playOrder="183">
+      <navLabel>
+        <text>豹</text>
+      </navLabel>
+      <content src="content_split_076.xhtml"/>
+      <navPoint id="206ca847-6d16-4342-8f20-1c2645acc4f4" playOrder="184">
+        <navLabel>
+          <text>１</text>
+        </navLabel>
+        <content src="content_split_076.xhtml#calibre_toc_280"/>
+      </navPoint>
+      <navPoint id="bf812050-f026-45b3-97ef-4c0f64db0171" playOrder="185">
+        <navLabel>
+          <text>２</text>
+        </navLabel>
+        <content src="content_split_076.xhtml#calibre_toc_281"/>
+      </navPoint>
+      <navPoint id="1340fc3a-30cd-46b9-aa37-ca02104999a1" playOrder="186">
+        <navLabel>
+          <text>３</text>
+        </navLabel>
+        <content src="content_split_076.xhtml#calibre_toc_282"/>
+      </navPoint>
+      <navPoint id="5d8a2861-bcc0-4efa-a932-69c56bf1795e" playOrder="187">
+        <navLabel>
+          <text>４</text>
+        </navLabel>
+        <content src="content_split_076.xhtml#calibre_toc_283"/>
+      </navPoint>
+      <navPoint id="633b391f-c2b4-47d9-83a8-95a089969563" playOrder="188">
+        <navLabel>
+          <text>５</text>
+        </navLabel>
+        <content src="content_split_076.xhtml#calibre_toc_284"/>
+      </navPoint>
+      <navPoint id="c54a6c1d-1a1d-4bf0-a390-61d4aade8858" playOrder="189">
+        <navLabel>
+          <text>６</text>
+        </navLabel>
+        <content src="content_split_076.xhtml#calibre_toc_285"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="5c77ad55-0775-40ba-9203-92c6e6a5c37d" playOrder="190">
+      <navLabel>
+        <text>这一刻用尽一生</text>
+      </navLabel>
+      <content src="content_split_077.xhtml"/>
+    </navPoint>
+    <navPoint id="0d722bf7-b48d-459b-812f-84ea52f4ecba" playOrder="191">
+      <navLabel>
+        <text>风之子</text>
+      </navLabel>
+      <content src="content_split_078.xhtml"/>
+    </navPoint>
+    <navPoint id="d5065729-9738-44e8-b56e-537276b9d379" playOrder="192">
+      <navLabel>
+        <text>飞越海峡的鸽子</text>
+      </navLabel>
+      <content src="content_split_079.xhtml"/>
+      <navPoint id="f7da17b3-ce46-4874-829a-db8296dced60" playOrder="193">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_286"/>
+      </navPoint>
+      <navPoint id="ed45c6c1-3982-4e33-821e-fdc256d516df" playOrder="194">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_287"/>
+      </navPoint>
+      <navPoint id="91cb2b81-1652-4f3a-97cd-aa6718a8a462" playOrder="195">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_288"/>
+      </navPoint>
+      <navPoint id="5738d2c9-2113-4a8b-a317-43b3928d1bba" playOrder="196">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_289"/>
+      </navPoint>
+      <navPoint id="59ff8767-0af8-4910-a5ed-bbb18601939f" playOrder="197">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_290"/>
+      </navPoint>
+      <navPoint id="f0d87661-cd8e-4bac-8824-b725c90969fe" playOrder="198">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_291"/>
+      </navPoint>
+      <navPoint id="c3688ac8-63aa-418c-84b5-7294125b0911" playOrder="199">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_292"/>
+      </navPoint>
+      <navPoint id="5b6451dd-7f36-42b4-8cbc-1e7f6a6dc52a" playOrder="200">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_293"/>
+      </navPoint>
+      <navPoint id="959b4a7a-d3b8-4191-a27e-534c39184028" playOrder="201">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_294"/>
+      </navPoint>
+      <navPoint id="3d7cfccb-2fc4-45f5-88ee-1f3e4578b35f" playOrder="202">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_079.xhtml#calibre_toc_295"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="09173bef-e478-4787-955c-266a201f27cc" playOrder="203">
+      <navLabel>
+        <text>高塔下的小镇</text>
+      </navLabel>
+      <content src="content_split_080.xhtml"/>
+    </navPoint>
+    <navPoint id="dae7c35b-7f7f-4492-b171-84549342cb10" playOrder="204">
+      <navLabel>
+        <text>伊俄卡斯达</text>
+      </navLabel>
+      <content src="content_split_081.xhtml"/>
+    </navPoint>
+    <navPoint id="d171f2eb-607e-4b3c-a5ac-2aa204b8ba95" playOrder="205">
+      <navLabel>
+        <text>带上她的眼睛</text>
+      </navLabel>
+      <content src="content_split_082.xhtml"/>
+    </navPoint>
+    <navPoint id="f4e6c5fa-fb80-4d6d-90cb-9bad7909c263" playOrder="206">
+      <navLabel>
+        <text>异域</text>
+      </navLabel>
+      <content src="content_split_083.xhtml"/>
+      <navPoint id="57f67101-ee2f-4ae4-bb4e-f97617c866ca" playOrder="207">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_083.xhtml#calibre_toc_296"/>
+      </navPoint>
+      <navPoint id="e7135230-8d44-4b08-93ff-f18672e054bd" playOrder="208">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_083.xhtml#calibre_toc_297"/>
+      </navPoint>
+      <navPoint id="fa613d67-d2eb-460b-b89e-2da8fe8b3e9a" playOrder="209">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_083.xhtml#calibre_toc_298"/>
+      </navPoint>
+      <navPoint id="d78606ca-28b6-4458-9101-8eaa2829a86f" playOrder="210">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_083.xhtml#calibre_toc_299"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="5bf67b91-04fa-4bde-bb77-eff1d1c7c6aa" playOrder="211">
+      <navLabel>
+        <text>心歌魅影</text>
+      </navLabel>
+      <content src="content_split_084.xhtml"/>
+    </navPoint>
+    <navPoint id="c5e17e9c-1d96-4a77-be0a-5a5c775821c3" playOrder="212">
+      <navLabel>
+        <text>心灵密约</text>
+      </navLabel>
+      <content src="content_split_085.xhtml"/>
+    </navPoint>
+    <navPoint id="43e8a381-1672-4dd2-943d-d1879eb81598" playOrder="213">
+      <navLabel>
+        <text>来自远古——宝瓶座传奇</text>
+      </navLabel>
+      <content src="content_split_086.xhtml"/>
+      <navPoint id="0a08d96e-0465-4966-ac37-3e76fdfa94af" playOrder="214">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_086.xhtml#calibre_toc_300"/>
+      </navPoint>
+      <navPoint id="219fcb3b-a218-42b4-bdb4-1ee6567f96bd" playOrder="215">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_086.xhtml#calibre_toc_301"/>
+      </navPoint>
+      <navPoint id="0d38a44e-c24c-4dc3-8e00-76ca45aa707f" playOrder="216">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_086.xhtml#calibre_toc_302"/>
+      </navPoint>
+      <navPoint id="12d6c0e6-ff90-49fb-9a30-07794714621d" playOrder="217">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_086.xhtml#calibre_toc_303"/>
+      </navPoint>
+      <navPoint id="3e527647-0f58-42e3-bb49-e677b1b96593" playOrder="218">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_086.xhtml#calibre_toc_304"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="781e2bce-be1b-46dd-8357-1e0829379758" playOrder="219">
+      <navLabel>
+        <text>潮啸如枪</text>
+      </navLabel>
+      <content src="content_split_087.xhtml"/>
+    </navPoint>
+    <navPoint id="89b48516-bafd-4642-8777-255c17ac54bd" playOrder="220">
+      <navLabel>
+        <text>笑吧，朋友</text>
+      </navLabel>
+      <content src="content_split_088.xhtml"/>
+    </navPoint>
+    <navPoint id="7e77f162-5375-483d-a99a-205accf80930" playOrder="221">
+      <navLabel>
+        <text>超越永恒</text>
+      </navLabel>
+      <content src="content_split_089.xhtml"/>
+    </navPoint>
+    <navPoint id="0810ff21-ee21-421a-8718-d18edd9b386c" playOrder="222">
+      <navLabel>
+        <text>黑暗中归来</text>
+      </navLabel>
+      <content src="content_split_090.xhtml"/>
+    </navPoint>
+    <navPoint id="116f2814-da7a-4ba0-ae9d-7a0e3f703f4a" playOrder="223">
+      <navLabel>
+        <text>一线天</text>
+      </navLabel>
+      <content src="content_split_091.xhtml"/>
+    </navPoint>
+    <navPoint id="106f78ad-4305-493b-b670-311ebc3a0915" playOrder="224">
+      <navLabel>
+        <text>三十六亿分之一</text>
+      </navLabel>
+      <content src="content_split_092.xhtml"/>
+      <navPoint id="a1a67a5e-3e9f-42a4-948b-d9c43d2c7d63" playOrder="225">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_092.xhtml#calibre_toc_305"/>
+      </navPoint>
+      <navPoint id="a75ae79c-3ecc-46d9-bf6e-9639370e7d98" playOrder="226">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_092.xhtml#calibre_toc_306"/>
+      </navPoint>
+      <navPoint id="388d5f50-b18e-4b27-accb-289a9870c197" playOrder="227">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_092.xhtml#calibre_toc_307"/>
+      </navPoint>
+      <navPoint id="2e4fafe8-c071-4b10-a312-79975e126cd9" playOrder="228">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_092.xhtml#calibre_toc_308"/>
+      </navPoint>
+      <navPoint id="85945e03-0615-441e-b8ee-7776363ae4fc" playOrder="229">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_092.xhtml#calibre_toc_309"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="24c45937-19b0-4e67-9043-e2d0463a4372" playOrder="230">
+      <navLabel>
+        <text>异手</text>
+      </navLabel>
+      <content src="content_split_093.xhtml"/>
+    </navPoint>
+    <navPoint id="ed13ddbd-9628-4cbf-821b-149ebcc183cd" playOrder="231">
+      <navLabel>
+        <text>我想回桂林</text>
+      </navLabel>
+      <content src="content_split_094.xhtml"/>
+    </navPoint>
+    <navPoint id="47fb91a5-de6e-4c47-913f-2be0c1167cd3" playOrder="232">
+      <navLabel>
+        <text>日落了，却没人写诗</text>
+      </navLabel>
+      <content src="content_split_095.xhtml"/>
+      <navPoint id="3ca4445d-bcdf-4c33-a413-25649fecca04" playOrder="233">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_095.xhtml#calibre_toc_310"/>
+      </navPoint>
+      <navPoint id="bec5d217-88ba-458e-98e0-1103086ab173" playOrder="234">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_095.xhtml#calibre_toc_311"/>
+      </navPoint>
+      <navPoint id="7c4515ad-e7c4-42eb-a0d1-d86b0770fe71" playOrder="235">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_095.xhtml#calibre_toc_312"/>
+      </navPoint>
+      <navPoint id="d6c651b8-a26b-43f1-9de9-4f78c18e1a6e" playOrder="236">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_095.xhtml#calibre_toc_313"/>
+      </navPoint>
+      <navPoint id="d940a641-efab-4630-9eb5-e4be020a2b80" playOrder="237">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_095.xhtml#calibre_toc_314"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="7bf80f43-635c-4545-a7a2-fab703970881" playOrder="238">
+      <navLabel>
+        <text>橱窗里的荷兰赌徒</text>
+      </navLabel>
+      <content src="content_split_096.xhtml"/>
+    </navPoint>
+    <navPoint id="f2f4b900-7fac-4da7-9e1e-bb1a2c531f07" playOrder="239">
+      <navLabel>
+        <text>流浪地球</text>
+      </navLabel>
+      <content src="content_split_097.xhtml"/>
+    </navPoint>
+    <navPoint id="e4297456-86df-478a-a0e0-8ce609eaf678" playOrder="240">
+      <navLabel>
+        <text>深渊</text>
+      </navLabel>
+      <content src="content_split_098.xhtml"/>
+    </navPoint>
+    <navPoint id="1ad5930e-ac93-49bc-b25d-7b2f9bd93ebe" playOrder="241">
+      <navLabel>
+        <text>爱别离</text>
+      </navLabel>
+      <content src="content_split_099.xhtml"/>
+    </navPoint>
+    <navPoint id="9caf6db9-bd80-4195-a5e8-a3e8f603aee8" playOrder="242">
+      <navLabel>
+        <text>邮差</text>
+      </navLabel>
+      <content src="content_split_100.xhtml"/>
+    </navPoint>
+    <navPoint id="1bd9de95-a0a3-483f-9117-fce419d16aba" playOrder="243">
+      <navLabel>
+        <text>乡村教师</text>
+      </navLabel>
+      <content src="content_split_101.xhtml"/>
+    </navPoint>
+    <navPoint id="9b1be6e9-57b8-4a2f-a622-1a12fb32a662" playOrder="244">
+      <navLabel>
+        <text>全频带阻塞干扰(中国版)</text>
+      </navLabel>
+      <content src="content_split_102.xhtml"/>
+    </navPoint>
+    <navPoint id="17e5d8e5-4726-477b-9607-312dd6ae2dd1" playOrder="245">
+      <navLabel>
+        <text>大角，快跑</text>
+      </navLabel>
+      <content src="content_split_103.xhtml"/>
+    </navPoint>
+    <navPoint id="b4aa51cd-48cb-46bb-b2ad-ea42784ff25e" playOrder="246">
+      <navLabel>
+        <text>废墟</text>
+      </navLabel>
+      <content src="content_split_104.xhtml"/>
+    </navPoint>
+    <navPoint id="8e38564c-dbf7-480d-87b9-483b109571c9" playOrder="247">
+      <navLabel>
+        <text>第一章 废墟</text>
+      </navLabel>
+      <content src="content_split_105.xhtml"/>
+    </navPoint>
+    <navPoint id="3983a47d-fd86-4f41-b90f-0d3898a5041b" playOrder="248">
+      <navLabel>
+        <text>第二章 探索</text>
+      </navLabel>
+      <content src="content_split_106.xhtml"/>
+    </navPoint>
+    <navPoint id="16da276b-d079-4b78-b0fd-64b3c1c4014a" playOrder="249">
+      <navLabel>
+        <text>第三章 迷</text>
+      </navLabel>
+      <content src="content_split_107.xhtml"/>
+    </navPoint>
+    <navPoint id="0cc03a9e-a40b-492b-992a-25f85d0069f9" playOrder="250">
+      <navLabel>
+        <text>第四章 朋友</text>
+      </navLabel>
+      <content src="content_split_108.xhtml"/>
+    </navPoint>
+    <navPoint id="4bb61ed1-1c21-4672-aea2-5087741db4fc" playOrder="251">
+      <navLabel>
+        <text>第五章 搜索</text>
+      </navLabel>
+      <content src="content_split_109.xhtml"/>
+    </navPoint>
+    <navPoint id="78b198c0-4001-4088-bc13-319af3ede222" playOrder="252">
+      <navLabel>
+        <text>第六章 入侵</text>
+      </navLabel>
+      <content src="content_split_110.xhtml"/>
+    </navPoint>
+    <navPoint id="f8ef626e-ab56-4a5a-8fb4-75b548184497" playOrder="253">
+      <navLabel>
+        <text>第七章 复苏</text>
+      </navLabel>
+      <content src="content_split_111.xhtml"/>
+    </navPoint>
+    <navPoint id="d426ee1c-9309-4963-a4a3-72580609e5ee" playOrder="254">
+      <navLabel>
+        <text>第八章 新生</text>
+      </navLabel>
+      <content src="content_split_112.xhtml"/>
+    </navPoint>
+    <navPoint id="fc06d4bf-dbd2-4504-9005-c5668035016a" playOrder="255">
+      <navLabel>
+        <text>第九章 行动</text>
+      </navLabel>
+      <content src="content_split_113.xhtml"/>
+    </navPoint>
+    <navPoint id="b8b60099-b556-4aa8-bec4-32357aed4565" playOrder="256">
+      <navLabel>
+        <text>第十章 核电厂</text>
+      </navLabel>
+      <content src="content_split_114.xhtml"/>
+    </navPoint>
+    <navPoint id="fbcd08c5-3a8a-4d52-b6ca-4211719cb461" playOrder="257">
+      <navLabel>
+        <text>第十一章 结果</text>
+      </navLabel>
+      <content src="content_split_115.xhtml"/>
+    </navPoint>
+    <navPoint id="cb5d0edd-50af-42e3-96c1-8b26434ec64f" playOrder="258">
+      <navLabel>
+        <text>第十一章 后记</text>
+      </navLabel>
+      <content src="content_split_116.xhtml"/>
+    </navPoint>
+    <navPoint id="832e50cd-bc94-4eab-a0ee-96c066aafe9f" playOrder="259">
+      <navLabel>
+        <text>战神初航</text>
+      </navLabel>
+      <content src="content_split_117.xhtml"/>
+      <navPoint id="70a85009-119a-4641-8fb8-9abc1a1ee821" playOrder="260">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_315"/>
+      </navPoint>
+      <navPoint id="753fcfe1-38c2-43f2-a26e-39c464deae16" playOrder="261">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_316"/>
+      </navPoint>
+      <navPoint id="6a576596-bc4b-42d6-a127-05eda2b96702" playOrder="262">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_317"/>
+      </navPoint>
+      <navPoint id="9de1a381-730f-45a5-a63f-f5c526a2fed8" playOrder="263">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_318"/>
+      </navPoint>
+      <navPoint id="20691343-a211-4ef1-a5ab-065145701ded" playOrder="264">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_319"/>
+      </navPoint>
+      <navPoint id="4be2865a-c5d5-47ea-b156-2a434dd8657b" playOrder="265">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_320"/>
+      </navPoint>
+      <navPoint id="f823fc2a-9c92-4681-b15b-fbb2f12d2896" playOrder="266">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_321"/>
+      </navPoint>
+      <navPoint id="9047862d-14c9-4c51-963e-75195211d482" playOrder="267">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_322"/>
+      </navPoint>
+      <navPoint id="1b99d038-000c-4b20-a8ea-3e110a756096" playOrder="268">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_323"/>
+      </navPoint>
+      <navPoint id="8352f0fb-17a7-45ed-b062-921a54e0704f" playOrder="269">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_324"/>
+      </navPoint>
+      <navPoint id="52c4e9e5-9d30-408b-b1ec-3b785176e6f8" playOrder="270">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_325"/>
+      </navPoint>
+      <navPoint id="454abae2-9b93-4159-9bf6-6a59a326c350" playOrder="271">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="content_split_117.xhtml#calibre_toc_326"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="06c22f80-c840-44ff-832c-55fa876cd394" playOrder="272">
+      <navLabel>
+        <text>故乡的云</text>
+      </navLabel>
+      <content src="content_split_118.xhtml"/>
+      <navPoint id="7164643f-b691-4088-a39a-ed9dfa988d5b" playOrder="273">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_118.xhtml#calibre_toc_327"/>
+      </navPoint>
+      <navPoint id="0410cf0e-0127-47a3-add5-1c1ec456586d" playOrder="274">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_118.xhtml#calibre_toc_328"/>
+      </navPoint>
+      <navPoint id="8e09940d-14d9-4a4d-b2d2-8b8b2a4e943e" playOrder="275">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_118.xhtml#calibre_toc_329"/>
+      </navPoint>
+      <navPoint id="a4086afe-3d97-4294-97df-17ba8f6e0ccf" playOrder="276">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_118.xhtml#calibre_toc_330"/>
+      </navPoint>
+      <navPoint id="d999d2da-f827-4d09-9743-ef8270ac7b37" playOrder="277">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_118.xhtml#calibre_toc_331"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="4463a162-b880-40d8-ac64-ade038a20100" playOrder="278">
+      <navLabel>
+        <text>是谁长眠在此</text>
+      </navLabel>
+      <content src="content_split_119.xhtml"/>
+    </navPoint>
+    <navPoint id="f55f9887-c1fd-45dd-b717-34f3120e996b" playOrder="279">
+      <navLabel>
+        <text>替天行道</text>
+      </navLabel>
+      <content src="content_split_120.xhtml"/>
+    </navPoint>
+    <navPoint id="070cd728-e8aa-4db2-ae85-e35e35e41cc9" playOrder="280">
+      <navLabel>
+        <text>棋谱</text>
+      </navLabel>
+      <content src="content_split_121.xhtml"/>
+    </navPoint>
+    <navPoint id="d95286f7-4f29-4b11-a7ff-c27c37bf9547" playOrder="281">
+      <navLabel>
+        <text>熏衣草</text>
+      </navLabel>
+      <content src="content_split_122.xhtml"/>
+    </navPoint>
+    <navPoint id="2b55df0f-2a77-4938-a658-b9a800f93d8b" playOrder="282">
+      <navLabel>
+        <text>盗墓</text>
+      </navLabel>
+      <content src="content_split_123.xhtml"/>
+    </navPoint>
+    <navPoint id="39695e04-31e9-4b16-890d-416bb20b24d3" playOrder="283">
+      <navLabel>
+        <text>蜕</text>
+      </navLabel>
+      <content src="content_split_124.xhtml"/>
+    </navPoint>
+    <navPoint id="6be3b32c-a0c4-45b2-833d-741e878e83ba" playOrder="284">
+      <navLabel>
+        <text>诡础</text>
+      </navLabel>
+      <content src="content_split_125.xhtml"/>
+    </navPoint>
+    <navPoint id="a1d4100c-713e-4235-8924-114e8b761f2f" playOrder="285">
+      <navLabel>
+        <text>一日囚</text>
+      </navLabel>
+      <content src="content_split_126.xhtml"/>
+    </navPoint>
+    <navPoint id="efcad6dc-cdfd-44de-84b9-f9c757ab0363" playOrder="286">
+      <navLabel>
+        <text>中国太阳</text>
+      </navLabel>
+      <content src="content_split_127.xhtml"/>
+    </navPoint>
+    <navPoint id="f1d548fe-6848-4d2b-84d0-c24342301e95" playOrder="287">
+      <navLabel>
+        <text>六道众生</text>
+      </navLabel>
+      <content src="content_split_128.xhtml"/>
+    </navPoint>
+    <navPoint id="164e95d6-cdf0-4b40-bf4b-28fdbd51fee4" playOrder="288">
+      <navLabel>
+        <text>吞食者</text>
+      </navLabel>
+      <content src="content_split_129.xhtml"/>
+    </navPoint>
+    <navPoint id="665ac292-1b6c-4e28-9b0e-25b58eac5b03" playOrder="289">
+      <navLabel>
+        <text>天下之水</text>
+      </navLabel>
+      <content src="content_split_130.xhtml"/>
+    </navPoint>
+    <navPoint id="0449181e-a465-45d3-a969-05b6b06c517d" playOrder="290">
+      <navLabel>
+        <text>宝贝宝贝我爱你</text>
+      </navLabel>
+      <content src="content_split_131.xhtml"/>
+    </navPoint>
+    <navPoint id="044685bf-67bc-44eb-a09a-233440c1e65f" playOrder="291">
+      <navLabel>
+        <text>日光镇</text>
+      </navLabel>
+      <content src="content_split_132.xhtml"/>
+      <navPoint id="184b9f57-914b-4a1a-a9d8-34b359904497" playOrder="292">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_332"/>
+      </navPoint>
+      <navPoint id="2c367ea2-fe9c-4d50-896f-907258b408f5" playOrder="293">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_333"/>
+      </navPoint>
+      <navPoint id="d812549b-4a92-4295-b6fe-047bb74a22bd" playOrder="294">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_334"/>
+      </navPoint>
+      <navPoint id="16e8d6bd-8778-43b4-92d3-5bd307ce88f4" playOrder="295">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_335"/>
+      </navPoint>
+      <navPoint id="f3739f44-61f0-4165-b6b1-13b5bb0a747e" playOrder="296">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_336"/>
+      </navPoint>
+      <navPoint id="55f5a91e-eaeb-48b8-82a8-c0a3bfe25a1c" playOrder="297">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_337"/>
+      </navPoint>
+      <navPoint id="88a1eb60-189b-4669-bf5d-145a2a71f2c0" playOrder="298">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_338"/>
+      </navPoint>
+      <navPoint id="8b099024-afdc-4486-b7d0-2ae6aa18e10c" playOrder="299">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_132.xhtml#calibre_toc_339"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="605b74b0-512f-4231-9fab-ee8a3aaae46f" playOrder="300">
+      <navLabel>
+        <text>朝闻道</text>
+      </navLabel>
+      <content src="content_split_133.xhtml"/>
+    </navPoint>
+    <navPoint id="98a76b3b-0918-492a-bcd5-8a830e2072dc" playOrder="301">
+      <navLabel>
+        <text>植花演义</text>
+      </navLabel>
+      <content src="content_split_134.xhtml"/>
+    </navPoint>
+    <navPoint id="a835656c-5127-44ac-a9d7-9212f4c58385" playOrder="302">
+      <navLabel>
+        <text>水星播种</text>
+      </navLabel>
+      <content src="content_split_135.xhtml"/>
+    </navPoint>
+    <navPoint id="b287b2c6-a176-43d0-b43a-b22966198a5a" playOrder="303">
+      <navLabel>
+        <text>生存实验</text>
+      </navLabel>
+      <content src="content_split_136.xhtml"/>
+    </navPoint>
+    <navPoint id="566eb66e-34b0-4906-b686-702d08690674" playOrder="304">
+      <navLabel>
+        <text>瘟疫</text>
+      </navLabel>
+      <content src="content_split_137.xhtml"/>
+    </navPoint>
+    <navPoint id="e7a1224d-df3b-4589-8e7a-8fe77dcd6ce2" playOrder="305">
+      <navLabel>
+        <text>西天</text>
+      </navLabel>
+      <content src="content_split_138.xhtml"/>
+    </navPoint>
+    <navPoint id="c519b544-0657-4e4d-9e84-fda721833c74" playOrder="306">
+      <navLabel>
+        <text>饥不择食</text>
+      </navLabel>
+      <content src="content_split_139.xhtml"/>
+    </navPoint>
+    <navPoint id="28d5dd9d-1a2a-4e9d-84db-2f059f033a83" playOrder="307">
+      <navLabel>
+        <text>马姨</text>
+      </navLabel>
+      <content src="content_split_140.xhtml"/>
+    </navPoint>
+    <navPoint id="3f3f0f69-e29f-4960-9876-82d797e7b4b1" playOrder="308">
+      <navLabel>
+        <text>伤心者</text>
+      </navLabel>
+      <content src="content_split_141.xhtml"/>
+    </navPoint>
+    <navPoint id="91003c02-a5f1-4eac-bd59-0298df4dcbce" playOrder="309">
+      <navLabel>
+        <text>唯美</text>
+      </navLabel>
+      <content src="content_split_142.xhtml"/>
+    </navPoint>
+    <navPoint id="7a62d12d-4691-45cf-842e-d3577a2f4444" playOrder="310">
+      <navLabel>
+        <text>地球大炮</text>
+      </navLabel>
+      <content src="content_split_143.xhtml"/>
+    </navPoint>
+    <navPoint id="8ba4fb51-f0ec-492a-8cb6-eeaf1a91499c" playOrder="311">
+      <navLabel>
+        <text>寄生之魔</text>
+      </navLabel>
+      <content src="content_split_144.xhtml"/>
+    </navPoint>
+    <navPoint id="f15b41cf-7c84-4264-87f7-fdd8aecea1d6" playOrder="312">
+      <navLabel>
+        <text>思想者</text>
+      </navLabel>
+      <content src="content_split_145.xhtml"/>
+    </navPoint>
+    <navPoint id="0d87ab1c-01f7-4d23-892f-be9ece333ce8" playOrder="313">
+      <navLabel>
+        <text>春日泽·云梦山·仲昆</text>
+      </navLabel>
+      <content src="content_split_146.xhtml"/>
+    </navPoint>
+    <navPoint id="a801a4d1-a817-4d2e-a845-ba652a93b926" playOrder="314">
+      <navLabel>
+        <text>诗云</text>
+      </navLabel>
+      <content src="content_split_147.xhtml"/>
+    </navPoint>
+    <navPoint id="d6d0f81a-d931-4705-96af-6c62f60ed5b3" playOrder="315">
+      <navLabel>
+        <text>饿塔</text>
+      </navLabel>
+      <content src="content_split_148.xhtml"/>
+    </navPoint>
+    <navPoint id="c3d793d2-4266-420f-83cb-3a40e9510954" playOrder="316">
+      <navLabel>
+        <text>关妖精的瓶子</text>
+      </navLabel>
+      <content src="content_split_149.xhtml"/>
+    </navPoint>
+    <navPoint id="1389616c-8fc3-4fc4-9e20-657ae3266b6a" playOrder="317">
+      <navLabel>
+        <text>冰上海</text>
+      </navLabel>
+      <content src="content_split_150.xhtml"/>
+      <navPoint id="2541875f-8302-48c3-b13c-ac3e17312908" playOrder="318">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="content_split_150.xhtml#calibre_toc_340"/>
+      </navPoint>
+      <navPoint id="597ce0b8-f43e-4b6a-83bf-41d715daf0e0" playOrder="319">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="content_split_150.xhtml#calibre_toc_341"/>
+      </navPoint>
+      <navPoint id="8e4d3f2a-cda4-4249-8636-d37cc8636b90" playOrder="320">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="content_split_150.xhtml#calibre_toc_342"/>
+      </navPoint>
+      <navPoint id="6640c7c0-90b1-4f1c-afb9-754dcd813984" playOrder="321">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="content_split_150.xhtml#calibre_toc_343"/>
+      </navPoint>
+      <navPoint id="1ffcf7e1-060f-4c30-98b2-c00888da5374" playOrder="322">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="content_split_150.xhtml#calibre_toc_344"/>
+      </navPoint>
+      <navPoint id="9dd74858-fa54-4f79-9d90-c5afdcbae05c" playOrder="323">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="content_split_150.xhtml#calibre_toc_345"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="d9e66ef2-3242-465c-9cf0-facf2eb728fa" playOrder="324">
+      <navLabel>
+        <text>圆圆的肥皂泡</text>
+      </navLabel>
+      <content src="content_split_151.xhtml"/>
+      <navPoint id="5cc35e50-1acd-4dbd-a901-5d2ec402945c" playOrder="325">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_346"/>
+      </navPoint>
+      <navPoint id="e545e999-4b91-481a-94dc-b87f98f9a272" playOrder="326">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_347"/>
+      </navPoint>
+      <navPoint id="a374bc39-c02d-4c57-9742-bf590242713c" playOrder="327">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_348"/>
+      </navPoint>
+      <navPoint id="037ba3db-f725-432d-ad47-52c8103ada4d" playOrder="328">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_349"/>
+      </navPoint>
+      <navPoint id="55e2b5e6-8892-4507-ab81-5f5f367b7618" playOrder="329">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_350"/>
+      </navPoint>
+      <navPoint id="0771f32a-91ac-4474-bd00-fd3a445afc97" playOrder="330">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_351"/>
+      </navPoint>
+      <navPoint id="df27e5ca-3a6a-4a92-a31d-e6df37ff09b3" playOrder="331">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_352"/>
+      </navPoint>
+      <navPoint id="89e19bcc-fd23-43ec-b692-37dab1e9f70f" playOrder="332">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_353"/>
+      </navPoint>
+      <navPoint id="63ead972-638c-4da4-8aff-9a7cafff3b2c" playOrder="333">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_151.xhtml#calibre_toc_354"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="47597288-0125-42e4-81ec-57a54261bf89" playOrder="334">
+      <navLabel>
+        <text>天 意</text>
+      </navLabel>
+      <content src="content_split_152.xhtml"/>
+    </navPoint>
+    <navPoint id="077fb80b-58dc-452b-afb0-95723e0d7cc2" playOrder="335">
+      <navLabel>
+        <text>审判日</text>
+      </navLabel>
+      <content src="content_split_154.xhtml"/>
+      <navPoint id="8dd07c82-e071-4253-82fb-4bd970ed0b6a" playOrder="336">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_355"/>
+      </navPoint>
+      <navPoint id="49d0bfd4-7c45-48a8-a4e6-f6e36408f569" playOrder="337">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_356"/>
+      </navPoint>
+      <navPoint id="df6c88cd-2147-42c9-b0e8-9ef650794ea7" playOrder="338">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_357"/>
+      </navPoint>
+      <navPoint id="0d6d109c-9b71-4528-92fd-a0e89acf0371" playOrder="339">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_358"/>
+      </navPoint>
+      <navPoint id="1576af05-469b-4fde-8d8c-21fc7ba427b6" playOrder="340">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_359"/>
+      </navPoint>
+      <navPoint id="9a565b0e-aec6-46d2-8bd1-920f41dd9ead" playOrder="341">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_360"/>
+      </navPoint>
+      <navPoint id="3683a4f9-d437-4aa5-9a32-2ed71658a40a" playOrder="342">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_361"/>
+      </navPoint>
+      <navPoint id="91cf2631-028c-4fcb-996e-227b2702297b" playOrder="343">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_362"/>
+      </navPoint>
+      <navPoint id="0231d2e7-ca3e-4013-910d-1713d57c3671" playOrder="344">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_363"/>
+      </navPoint>
+      <navPoint id="11f575fa-c375-4aac-adf5-37ebbd979a97" playOrder="345">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_364"/>
+      </navPoint>
+      <navPoint id="3b7def77-d40d-4daf-a93c-9f3fc7e6ef38" playOrder="346">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_365"/>
+      </navPoint>
+      <navPoint id="269ddcbf-03b6-461c-adbc-64401b8b95a4" playOrder="347">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_366"/>
+      </navPoint>
+      <navPoint id="99b22d3d-07d4-4fff-9db6-b4306f3da998" playOrder="348">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_367"/>
+      </navPoint>
+      <navPoint id="877cc1e7-e590-4dad-821d-c59856bfe0be" playOrder="349">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_368"/>
+      </navPoint>
+      <navPoint id="c62c5c2a-1e5b-4762-8041-dd216f8a30e9" playOrder="350">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_369"/>
+      </navPoint>
+      <navPoint id="397ef252-dee7-44c7-add6-52267f13297e" playOrder="351">
+        <navLabel>
+          <text>十六</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_370"/>
+      </navPoint>
+      <navPoint id="3c0f1153-5ac9-4fac-88ec-0d60ed54f592" playOrder="352">
+        <navLabel>
+          <text>十七</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_371"/>
+      </navPoint>
+      <navPoint id="776da2ab-ac2f-4008-88fd-79126372eb81" playOrder="353">
+        <navLabel>
+          <text>十八</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_372"/>
+      </navPoint>
+      <navPoint id="4e372f34-95a9-42e9-9f4f-9626eb833857" playOrder="354">
+        <navLabel>
+          <text>十九</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_373"/>
+      </navPoint>
+      <navPoint id="b24cd98a-0b80-4caf-ac7d-48e20555c469" playOrder="355">
+        <navLabel>
+          <text>二十</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_374"/>
+      </navPoint>
+      <navPoint id="64a2659b-1a57-42e1-999b-61e8bfb592ea" playOrder="356">
+        <navLabel>
+          <text>二十一</text>
+        </navLabel>
+        <content src="content_split_154.xhtml#calibre_toc_375"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6e6a9378-df4f-4aa7-8a47-8dd5f56c0e6b" playOrder="357">
+      <navLabel>
+        <text>异天行</text>
+      </navLabel>
+      <content src="content_split_155.xhtml"/>
+    </navPoint>
+    <navPoint id="bdd3b958-58a5-4f4a-b0b5-098bab366bad" playOrder="358">
+      <navLabel>
+        <text>潜入贵阳</text>
+      </navLabel>
+      <content src="content_split_156.xhtml"/>
+      <navPoint id="874b73c1-8718-4b9e-a320-f041ee21728e" playOrder="359">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_376"/>
+      </navPoint>
+      <navPoint id="1e0708dc-17bf-483b-b490-d0c81c1187d7" playOrder="360">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_377"/>
+      </navPoint>
+      <navPoint id="c68a2f62-9c6e-43ca-9776-f849b0727406" playOrder="361">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_378"/>
+      </navPoint>
+      <navPoint id="2294c8f0-5a56-451f-92ae-947581f2dd6d" playOrder="362">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_379"/>
+      </navPoint>
+      <navPoint id="06e3a788-c9cf-4069-8974-65c073cb80ba" playOrder="363">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_380"/>
+      </navPoint>
+      <navPoint id="6b7212ac-4f6f-4f16-87ab-d376de416025" playOrder="364">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_381"/>
+      </navPoint>
+      <navPoint id="f22be46c-694b-411e-a043-d090e4284c1b" playOrder="365">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_382"/>
+      </navPoint>
+      <navPoint id="73db3e1a-62c9-43af-8442-2654b311133f" playOrder="366">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_383"/>
+      </navPoint>
+      <navPoint id="3bb72038-45be-44f7-b9ab-b2ced445902b" playOrder="367">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_384"/>
+      </navPoint>
+      <navPoint id="4a695c0d-45e7-4613-905e-9bb9977426ef" playOrder="368">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_385"/>
+      </navPoint>
+      <navPoint id="1fbd4ba1-80d3-42c1-a20c-67faa58f8f08" playOrder="369">
+        <navLabel>
+          <text>12</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_386"/>
+      </navPoint>
+      <navPoint id="ce379361-424a-473b-aaab-a858079c8542" playOrder="370">
+        <navLabel>
+          <text>13</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_387"/>
+      </navPoint>
+      <navPoint id="85e008ce-8fc2-4d5b-8bcb-04bb485cfbea" playOrder="371">
+        <navLabel>
+          <text>14</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_388"/>
+      </navPoint>
+      <navPoint id="a6e3ece5-935f-4321-8bbf-50ddb20d554a" playOrder="372">
+        <navLabel>
+          <text>15</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_389"/>
+      </navPoint>
+      <navPoint id="9110dc0a-a0b7-4764-bb8a-ed5b4264daee" playOrder="373">
+        <navLabel>
+          <text>16</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_390"/>
+      </navPoint>
+      <navPoint id="e6786353-c86f-4982-b412-f7e2783f5037" playOrder="374">
+        <navLabel>
+          <text>17</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_391"/>
+      </navPoint>
+      <navPoint id="40c760c2-1cbe-4d7b-b666-134b0e31555f" playOrder="375">
+        <navLabel>
+          <text>18</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_392"/>
+      </navPoint>
+      <navPoint id="34c2f6a5-5ae3-4d90-af6c-00552971d0dc" playOrder="376">
+        <navLabel>
+          <text>19</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_393"/>
+      </navPoint>
+      <navPoint id="2a581087-1b07-497b-b08d-609f2bf7c35b" playOrder="377">
+        <navLabel>
+          <text>21</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_394"/>
+      </navPoint>
+      <navPoint id="3a742741-1bca-4351-890f-56a849e6c73b" playOrder="378">
+        <navLabel>
+          <text>22</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_395"/>
+      </navPoint>
+      <navPoint id="99f2b378-5e2f-4d9c-b4fd-f37c44424d65" playOrder="379">
+        <navLabel>
+          <text>23</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_396"/>
+      </navPoint>
+      <navPoint id="7d0422ee-0ce1-4aeb-a7bc-0cf0f3f9d830" playOrder="380">
+        <navLabel>
+          <text>24</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_397"/>
+      </navPoint>
+      <navPoint id="fdc64874-c807-40d2-a559-0b00a00ab904" playOrder="381">
+        <navLabel>
+          <text>25</text>
+        </navLabel>
+        <content src="content_split_156.xhtml#calibre_toc_398"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="da569516-d080-4afe-aaa5-1d9eab84e360" playOrder="382">
+      <navLabel>
+        <text>镜子</text>
+      </navLabel>
+      <content src="content_split_157.xhtml"/>
+    </navPoint>
+    <navPoint id="048f437f-725d-4a2a-b56d-569630056d77" playOrder="383">
+      <navLabel>
+        <text>第一章 追捕</text>
+      </navLabel>
+      <content src="content_split_158.xhtml"/>
+    </navPoint>
+    <navPoint id="586c5810-673f-413d-81d2-b14c5fd35483" playOrder="384">
+      <navLabel>
+        <text>第二章 犯人和被追捕者</text>
+      </navLabel>
+      <content src="content_split_159.xhtml"/>
+    </navPoint>
+    <navPoint id="f23bdb3e-d253-4da4-b189-6ee880895979" playOrder="385">
+      <navLabel>
+        <text>第三章 大案</text>
+      </navLabel>
+      <content src="content_split_160.xhtml"/>
+    </navPoint>
+    <navPoint id="58edd4db-ccee-46de-bbaa-2800e0593221" playOrder="386">
+      <navLabel>
+        <text>第四章 宇宙大爆炸</text>
+      </navLabel>
+      <content src="content_split_161.xhtml"/>
+    </navPoint>
+    <navPoint id="3746e91e-e3f8-484f-bd73-ba1d90474729" playOrder="387">
+      <navLabel>
+        <text>第五章 诬陷</text>
+      </navLabel>
+      <content src="content_split_162.xhtml"/>
+    </navPoint>
+    <navPoint id="f5149de7-e3df-4dcc-b104-d44f3e78b0f5" playOrder="388">
+      <navLabel>
+        <text>第六章 超弦计算机、终极容量和镜像模拟</text>
+      </navLabel>
+      <content src="content_split_163.xhtml"/>
+    </navPoint>
+    <navPoint id="2e87b30a-2b3b-459e-a55a-40793bcc86ff" playOrder="389">
+      <navLabel>
+        <text>第七章 初始条件</text>
+      </navLabel>
+      <content src="content_split_164.xhtml"/>
+    </navPoint>
+    <navPoint id="7b14341d-6ba6-4f37-9244-3ad40757858a" playOrder="390">
+      <navLabel>
+        <text>第八章 创世游戏</text>
+      </navLabel>
+      <content src="content_split_165.xhtml"/>
+    </navPoint>
+    <navPoint id="77e59d20-5df8-4e59-abaa-20b543d963af" playOrder="391">
+      <navLabel>
+        <text>第九章 历史检索</text>
+      </navLabel>
+      <content src="content_split_166.xhtml"/>
+    </navPoint>
+    <navPoint id="5f166685-dd0b-4777-8e3f-cac01e2a380e" playOrder="392">
+      <navLabel>
+        <text>第十章 现实检索</text>
+      </navLabel>
+      <content src="content_split_167.xhtml"/>
+    </navPoint>
+    <navPoint id="ffb99c48-3241-4211-8495-b6004301a9cb" playOrder="393">
+      <navLabel>
+        <text>第十一章 单程递归</text>
+      </navLabel>
+      <content src="content_split_168.xhtml"/>
+    </navPoint>
+    <navPoint id="38cb45a6-b5d7-40d6-9cd5-64a499e9a9a7" playOrder="394">
+      <navLabel>
+        <text>第十二章 镜像时代</text>
+      </navLabel>
+      <content src="content_split_169.xhtml"/>
+    </navPoint>
+    <navPoint id="d59f2cf5-96b0-4d91-8efe-81a2ae02611b" playOrder="395">
+      <navLabel>
+        <text>第十三章 生日</text>
+      </navLabel>
+      <content src="content_split_170.xhtml"/>
+    </navPoint>
+    <navPoint id="542fa17c-755e-4d0e-82a9-7d5291083961" playOrder="396">
+      <navLabel>
+        <text>第十四章 未来</text>
+      </navLabel>
+      <content src="content_split_171.xhtml"/>
+    </navPoint>
+    <navPoint id="c6216199-8a05-49bd-9d5c-632310a64a26" playOrder="397">
+      <navLabel>
+        <text>第十五章 镜像时代</text>
+      </navLabel>
+      <content src="content_split_172.xhtml"/>
+    </navPoint>
+    <navPoint id="d4b6fe77-557e-4af9-91b7-a6a633c01b3f" playOrder="398">
+      <navLabel>
+        <text>中国科幻银河奖获奖作品目录</text>
+      </navLabel>
+      <content src="content_split_173.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

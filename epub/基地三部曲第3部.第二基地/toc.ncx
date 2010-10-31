@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta content="3d722635-5539-467d-a3be-1106eae79ce0" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.55)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>基地三部曲第3部.第二基地</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="72e9dfb2-7f00-4c59-a401-f07a8cb6d8eb" playOrder="1">
+      <navLabel>
+        <text>序 幕</text>
+      </navLabel>
+      <content src="content_split_001.xhtml"/>
+    </navPoint>
+    <navPoint id="9fe15a78-f994-4430-866d-0dceb6f68175" playOrder="2">
+      <navLabel>
+        <text>骡的寻找-二人与骡</text>
+      </navLabel>
+      <content src="content_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="9075c974-e412-4183-bb89-dacfdfef14a5" playOrder="3">
+      <navLabel>
+        <text>骡的寻找-二人无骡</text>
+      </navLabel>
+      <content src="content_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="e383644c-17e7-4f82-ae91-cc158de129b4" playOrder="4">
+      <navLabel>
+        <text>骡的寻找-二人与农夫</text>
+      </navLabel>
+      <content src="content_split_004.xhtml"/>
+    </navPoint>
+    <navPoint id="4089e9da-6e0c-4739-8af9-aca45b74b333" playOrder="5">
+      <navLabel>
+        <text>骡的寻找-二人与长老</text>
+      </navLabel>
+      <content src="content_split_005.xhtml"/>
+    </navPoint>
+    <navPoint id="055cdb13-7bd0-420a-b11d-bde6ceb231e5" playOrder="6">
+      <navLabel>
+        <text>骡的寻找-一人与骡</text>
+      </navLabel>
+      <content src="content_split_006.xhtml"/>
+    </navPoint>
+    <navPoint id="844b68ba-5282-42e9-9b0f-7fbb0ac27f9c" playOrder="7">
+      <navLabel>
+        <text>骡的寻找-一人、骡与第三者</text>
+      </navLabel>
+      <content src="content_split_007.xhtml"/>
+    </navPoint>
+    <navPoint id="b2641056-010e-4e60-b60a-89e49036ec15" playOrder="8">
+      <navLabel>
+        <text>基地的寻找-艾嘉蒂娅</text>
+      </navLabel>
+      <content src="content_split_008.xhtml"/>
+    </navPoint>
+    <navPoint id="aa66c785-53de-4a6f-93ac-5755bcfd0d04" playOrder="9">
+      <navLabel>
+        <text>基地的寻找-谢顿计划</text>
+      </navLabel>
+      <content src="content_split_009.xhtml"/>
+    </navPoint>
+    <navPoint id="d55b4a2b-a2ef-4821-9875-4717703b06a3" playOrder="10">
+      <navLabel>
+        <text>基地的寻找-同谋</text>
+      </navLabel>
+      <content src="content_split_010.xhtml"/>
+    </navPoint>
+    <navPoint id="aec211a9-99a4-4e11-8dad-21a99b02b810" playOrder="11">
+      <navLabel>
+        <text>基地的寻找-迫在眉睫</text>
+      </navLabel>
+      <content src="content_split_011.xhtml"/>
+    </navPoint>
+    <navPoint id="f68bee9f-0628-4068-bb9c-edf504c86612" playOrder="12">
+      <navLabel>
+        <text>基地的寻找-偷渡客</text>
+      </navLabel>
+      <content src="content_split_012.xhtml"/>
+    </navPoint>
+    <navPoint id="f77b0031-6512-498a-bff8-7ae43c05a8f7" playOrder="13">
+      <navLabel>
+        <text>基地的寻找-统领</text>
+      </navLabel>
+      <content src="content_split_013.xhtml"/>
+    </navPoint>
+    <navPoint id="94635d25-9715-4d97-bd37-47d2a9d3f4a9" playOrder="14">
+      <navLabel>
+        <text>基地的寻找-贵妇</text>
+      </navLabel>
+      <content src="content_split_014.xhtml"/>
+    </navPoint>
+    <navPoint id="a8478610-491d-448d-97af-b72d0c26e4d4" playOrder="15">
+      <navLabel>
+        <text>基地的寻找-忧心如焚</text>
+      </navLabel>
+      <content src="content_split_015.xhtml"/>
+    </navPoint>
+    <navPoint id="6ed5baa5-8a57-4ac7-bb0c-8a0d7d98e7e6" playOrder="16">
+      <navLabel>
+        <text>基地的寻找-天罗地网</text>
+      </navLabel>
+      <content src="content_split_016.xhtml"/>
+    </navPoint>
+    <navPoint id="57e811a4-80cb-4405-8be2-25b626716d3d" playOrder="17">
+      <navLabel>
+        <text>基地的寻找-战端</text>
+      </navLabel>
+      <content src="content_split_017.xhtml"/>
+    </navPoint>
+    <navPoint id="59a8fe85-1bd6-443e-9789-4d958fdcf66d" playOrder="18">
+      <navLabel>
+        <text>基地的寻找-战争</text>
+      </navLabel>
+      <content src="content_split_018.xhtml"/>
+    </navPoint>
+    <navPoint id="24e7d853-e9cc-4258-aff2-8f1c148a1f0d" playOrder="19">
+      <navLabel>
+        <text>基地的寻找-幽寂世界</text>
+      </navLabel>
+      <content src="content_split_019.xhtml"/>
+    </navPoint>
+    <navPoint id="42150c7e-57a4-4f32-b88d-05d6c1f1690f" playOrder="20">
+      <navLabel>
+        <text>基地的寻找-终战</text>
+      </navLabel>
+      <content src="content_split_020.xhtml"/>
+    </navPoint>
+    <navPoint id="06c60d31-2932-41b7-8010-2a0d6b952719" playOrder="21">
+      <navLabel>
+        <text>基地的寻找-“我知道……”</text>
+      </navLabel>
+      <content src="content_split_021.xhtml"/>
+    </navPoint>
+    <navPoint id="bddb0626-e898-4e13-9891-4fdc48126330" playOrder="22">
+      <navLabel>
+        <text>基地的寻找-满意的答案</text>
+      </navLabel>
+      <content src="content_split_022.xhtml"/>
+    </navPoint>
+    <navPoint id="158bff95-de56-4fc2-9602-a8ce62ae3ab5" playOrder="23">
+      <navLabel>
+        <text>基地的寻找-真正的答案</text>
+      </navLabel>
+      <content src="content_split_023.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
