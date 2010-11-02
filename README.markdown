@@ -1,10 +1,25 @@
-Ebook
----------
+Ebook Project
+=============
 
-* project host
+Source
+------
 
-** https://zebook.googlecode.com/svn/trunk
+1. GoogleCode
 
-** git@github.com:eotect/ebook.git
+    <http://zebook.googlecode.com>
 
+    <https://zebook.googlecode.com/svn/trunk>
+
+2. GitHub
+
+    <http://github.com/eotect/ebook>
+
+    <git@github.com:eotect/ebook.git>
+
+2. Gitorious
+
+    <http://gitorious.org/eotect/ebook>
+
+    <git@gitorious.org:eotect/ebook.git>
+    
 
